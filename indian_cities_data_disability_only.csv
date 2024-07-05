@@ -1,0 +1,992 @@
+Age,City,Gender,Income,Education,Occupation/Job,Geophysical Location,Tech Level,Disability,Budget,Usage Frequency
+69,Patna,Non-binary,732454,Undergraduate degree,Unemployed,Sub-urban,Low,Mobility impairment,18638,Weekly
+27,Pune,Non-binary,607773,Primary education,Businessperson,Sub-urban,Low,Hearing impairment,74124,Monthly
+22,Lucknow,Female,1847149,Undergraduate degree,Teacher,Rural,Medium,Hearing impairment,86303,Monthly
+52,Surat,Male,1238999,Postgraduate degree,Artist,Urban,High,Speech impairment,62017,Monthly
+70,Hyderabad,Male,1378788,Secondary education,Student,Sub-urban,Low,Mobility impairment,68162,Weekly
+21,Delhi,Female,223451,Secondary education,Engineer,Urban,Low,Hearing impairment,61975,Weekly
+38,Vadodara,Non-binary,1206138,No formal education,Teacher,Urban,High,Hearing impairment,37263,Monthly
+63,Visakhapatnam,Male,1906859,Secondary education,Farmer,Urban,Low,Speech impairment,36448,Daily
+34,Vadodara,Male,251609,No formal education,Teacher,Rural,Low,Cognitive impairment,16265,Daily
+80,Indore,Male,648626,No formal education,Teacher,Rural,Low,Hearing impairment,62382,Monthly
+31,Jaipur,Female,1914290,Undergraduate degree,Doctor,Urban,High,Mobility impairment,34647,Monthly
+53,Ahmedabad,Non-binary,644015,Undergraduate degree,Doctor,Rural,Medium,Visual impairment (Blind),27076,Monthly
+25,Lucknow,Male,758216,No formal education,Businessperson,Rural,Low,Visual impairment (Blind),57196,Daily
+30,Jaipur,Non-binary,1139742,No formal education,Doctor,Rural,High,Hearing impairment,17866,Daily
+25,Mumbai,Female,1131156,Secondary education,Technician,Rural,Low,Mobility impairment,29986,Monthly
+36,Ahmedabad,Non-binary,1956101,Undergraduate degree,Engineer,Urban,High,Visual impairment (Blind),15351,Monthly
+66,Surat,Female,896291,Primary education,Technician,Sub-urban,High,Visual impairment (Blind),37870,Daily
+33,Pune,Female,1521525,No formal education,Engineer,Sub-urban,High,Visual impairment (Blind),99097,Weekly
+36,Ahmedabad,Male,430708,Postgraduate degree,Engineer,Sub-urban,High,Cognitive impairment,32112,Daily
+54,Vadodara,Non-binary,1878133,Undergraduate degree,Farmer,Sub-urban,Low,Speech impairment,35782,Daily
+59,Pimpri-Chinchwad,Male,1107338,Secondary education,Technician,Sub-urban,Medium,Mobility impairment,65566,Weekly
+48,Hyderabad,Male,1867939,Postgraduate degree,Teacher,Sub-urban,High,Hearing impairment,21467,Monthly
+67,Jaipur,Female,374374,Primary education,Engineer,Sub-urban,High,Cognitive impairment,66732,Daily
+18,Surat,Male,1478161,Undergraduate degree,Engineer,Sub-urban,Medium,Mobility impairment,90203,Monthly
+29,Pune,Female,1595337,Primary education,Engineer,Rural,Medium,Speech impairment,71803,Monthly
+78,Kanpur,Male,1719929,Secondary education,Farmer,Rural,Low,Mobility impairment,81210,Weekly
+40,Nagpur,Female,678731,Postgraduate degree,Technician,Sub-urban,Low,Visual impairment (Blind),44833,Monthly
+68,Bengaluru,Non-binary,157968,Secondary education,Unemployed,Rural,High,Hearing impairment,85356,Weekly
+43,Visakhapatnam,Female,1920731,Undergraduate degree,Unemployed,Rural,High,Speech impairment,63824,Daily
+72,Lucknow,Female,553664,Undergraduate degree,Artist,Sub-urban,Low,Mobility impairment,94565,Daily
+46,Bengaluru,Female,1122073,Secondary education,Teacher,Sub-urban,Medium,Visual impairment (Blind),92025,Monthly
+65,Kanpur,Female,1924252,Secondary education,Engineer,Rural,Medium,Hearing impairment,80084,Monthly
+64,Jaipur,Female,595764,Primary education,Artist,Urban,Medium,Speech impairment,52031,Daily
+41,Chennai,Non-binary,1759805,Postgraduate degree,Engineer,Rural,High,Speech impairment,58095,Monthly
+18,Jaipur,Male,986182,Postgraduate degree,Unemployed,Urban,Low,Mobility impairment,88120,Monthly
+78,Pune,Female,167533,Primary education,Technician,Sub-urban,High,Speech impairment,25674,Daily
+55,Patna,Male,1524913,Secondary education,Doctor,Sub-urban,High,Visual impairment (Blind),77314,Daily
+76,Kanpur,Female,1898202,Secondary education,Student,Urban,Low,Cognitive impairment,93048,Weekly
+36,Bengaluru,Female,285254,Undergraduate degree,Technician,Sub-urban,Medium,Speech impairment,53978,Weekly
+28,Bhopal,Female,237992,Secondary education,Unemployed,Rural,High,Mobility impairment,39445,Monthly
+73,Lucknow,Non-binary,652412,Secondary education,Technician,Sub-urban,Medium,Cognitive impairment,32370,Monthly
+68,Pune,Female,1720543,Undergraduate degree,Student,Sub-urban,Medium,Hearing impairment,72066,Weekly
+80,Ahmedabad,Non-binary,912846,Postgraduate degree,Unemployed,Rural,Medium,Visual impairment (Blind),21805,Monthly
+23,Lucknow,Female,830295,Secondary education,Businessperson,Urban,Low,Hearing impairment,52513,Weekly
+47,Surat,Male,481188,Undergraduate degree,Farmer,Sub-urban,Medium,Cognitive impairment,58884,Weekly
+23,Bhopal,Non-binary,536021,Primary education,Businessperson,Sub-urban,Low,Speech impairment,84322,Weekly
+64,Chennai,Female,1339815,Secondary education,Unemployed,Rural,Medium,Cognitive impairment,36658,Daily
+76,Mumbai,Female,1633379,Primary education,Businessperson,Urban,High,Mobility impairment,86158,Weekly
+56,Kanpur,Non-binary,1736846,Undergraduate degree,Technician,Sub-urban,Medium,Visual impairment (Blind),61706,Daily
+64,Mumbai,Male,789654,Undergraduate degree,Farmer,Rural,Low,Cognitive impairment,47639,Daily
+28,Thane,Male,1607165,Secondary education,Farmer,Urban,Low,Visual impairment (Blind),19569,Monthly
+79,Indore,Non-binary,1756224,No formal education,Student,Urban,Low,Hearing impairment,87928,Monthly
+79,Visakhapatnam,Female,474374,Undergraduate degree,Technician,Sub-urban,Low,Mobility impairment,42843,Monthly
+78,Kolkata,Male,1439339,Postgraduate degree,Teacher,Sub-urban,Medium,Speech impairment,21208,Daily
+22,Thane,Male,920056,Undergraduate degree,Unemployed,Sub-urban,Medium,Speech impairment,22895,Monthly
+53,Delhi,Female,517957,Postgraduate degree,Doctor,Sub-urban,Medium,Visual impairment (Blind),82540,Daily
+22,Hyderabad,Non-binary,1945405,Primary education,Doctor,Sub-urban,High,Mobility impairment,41620,Daily
+30,Bhopal,Non-binary,318796,Undergraduate degree,Artist,Urban,Low,Speech impairment,39912,Monthly
+22,Vadodara,Non-binary,1901689,Postgraduate degree,Technician,Urban,Medium,Visual impairment (Blind),92759,Daily
+32,Visakhapatnam,Female,1944492,No formal education,Farmer,Sub-urban,Medium,Mobility impairment,49030,Daily
+40,Thane,Female,1411630,Secondary education,Artist,Urban,High,Hearing impairment,33734,Weekly
+65,Kolkata,Non-binary,1414316,No formal education,Student,Urban,Low,Mobility impairment,8971,Weekly
+52,Bhopal,Non-binary,1077802,Postgraduate degree,Engineer,Sub-urban,Medium,Speech impairment,77213,Daily
+24,Kolkata,Non-binary,284873,Secondary education,Artist,Urban,Low,Speech impairment,27158,Daily
+52,Bengaluru,Male,199230,Postgraduate degree,Businessperson,Sub-urban,Low,Visual impairment (Blind),33437,Weekly
+21,Lucknow,Non-binary,1925547,Secondary education,Farmer,Sub-urban,Low,Visual impairment (Blind),16716,Weekly
+32,Vadodara,Male,389507,Undergraduate degree,Businessperson,Sub-urban,Low,Mobility impairment,56964,Daily
+37,Pune,Female,374431,Secondary education,Unemployed,Sub-urban,Low,Visual impairment (Blind),44065,Weekly
+36,Vadodara,Female,1903617,Undergraduate degree,Technician,Urban,High,Visual impairment (Blind),64737,Weekly
+27,Hyderabad,Female,1181805,Primary education,Artist,Rural,Low,Cognitive impairment,74372,Daily
+34,Patna,Female,653183,No formal education,Doctor,Sub-urban,Medium,Visual impairment (Blind),40273,Monthly
+25,Jaipur,Male,1585244,No formal education,Artist,Rural,High,Visual impairment (Blind),97106,Daily
+68,Thane,Non-binary,1423288,No formal education,Engineer,Rural,Low,Cognitive impairment,78691,Daily
+64,Chennai,Non-binary,1760945,Primary education,Engineer,Sub-urban,Medium,Cognitive impairment,75781,Monthly
+47,Thane,Male,355393,Secondary education,Farmer,Rural,Low,Cognitive impairment,41878,Monthly
+40,Visakhapatnam,Female,1986709,Postgraduate degree,Technician,Urban,Low,Visual impairment (Blind),27472,Daily
+27,Thane,Non-binary,1209455,Secondary education,Businessperson,Urban,Low,Visual impairment (Blind),83285,Weekly
+28,Nagpur,Non-binary,759695,Secondary education,Farmer,Rural,Medium,Visual impairment (Blind),66432,Daily
+63,Nagpur,Male,1680104,No formal education,Teacher,Urban,Low,Hearing impairment,99107,Daily
+27,Kanpur,Male,256232,No formal education,Artist,Rural,Low,Mobility impairment,67164,Weekly
+22,Bhopal,Non-binary,1073699,Undergraduate degree,Businessperson,Rural,Medium,Visual impairment (Blind),5063,Weekly
+44,Indore,Female,1420616,No formal education,Student,Urban,High,Mobility impairment,40119,Daily
+69,Bengaluru,Non-binary,643161,Postgraduate degree,Farmer,Sub-urban,High,Visual impairment (Blind),74625,Daily
+54,Pimpri-Chinchwad,Non-binary,649870,Secondary education,Farmer,Rural,Low,Hearing impairment,5425,Monthly
+61,Patna,Male,595167,Primary education,Farmer,Sub-urban,Low,Hearing impairment,55271,Monthly
+68,Mumbai,Female,1625334,Undergraduate degree,Engineer,Sub-urban,High,Speech impairment,60007,Daily
+59,Chennai,Male,428040,Postgraduate degree,Businessperson,Urban,High,Hearing impairment,65943,Weekly
+55,Pune,Female,1754597,No formal education,Student,Rural,Low,Speech impairment,88041,Monthly
+50,Patna,Male,1882749,Undergraduate degree,Doctor,Sub-urban,High,Cognitive impairment,59582,Monthly
+46,Pimpri-Chinchwad,Male,569985,Primary education,Doctor,Rural,Low,Mobility impairment,71026,Weekly
+29,Visakhapatnam,Female,777197,No formal education,Businessperson,Sub-urban,Low,Cognitive impairment,77156,Weekly
+47,Kolkata,Non-binary,590917,Primary education,Teacher,Sub-urban,Medium,Cognitive impairment,39696,Daily
+65,Chennai,Male,1969820,Postgraduate degree,Farmer,Urban,Low,Visual impairment (Blind),49669,Weekly
+80,Delhi,Non-binary,1867330,Secondary education,Doctor,Sub-urban,Medium,Cognitive impairment,87422,Weekly
+23,Bengaluru,Male,637001,Undergraduate degree,Farmer,Urban,High,Speech impairment,16447,Daily
+59,Surat,Female,1218728,Secondary education,Doctor,Rural,Low,Mobility impairment,48335,Monthly
+67,Nagpur,Female,1616190,No formal education,Artist,Rural,Medium,Visual impairment (Blind),24353,Weekly
+47,Hyderabad,Male,944528,No formal education,Unemployed,Sub-urban,Medium,Mobility impairment,14665,Weekly
+55,Lucknow,Female,1466039,Primary education,Farmer,Rural,Medium,Hearing impairment,60144,Monthly
+34,Nagpur,Male,775706,No formal education,Unemployed,Urban,High,Speech impairment,86652,Weekly
+44,Mumbai,Non-binary,1537694,Postgraduate degree,Engineer,Sub-urban,High,Cognitive impairment,53962,Weekly
+76,Bengaluru,Female,1198875,Primary education,Engineer,Urban,High,Visual impairment (Blind),9677,Weekly
+72,Kanpur,Non-binary,1213490,Secondary education,Businessperson,Sub-urban,Medium,Mobility impairment,83550,Weekly
+25,Pimpri-Chinchwad,Non-binary,695541,Postgraduate degree,Farmer,Sub-urban,Low,Visual impairment (Blind),49545,Daily
+70,Lucknow,Male,1313916,Postgraduate degree,Artist,Sub-urban,High,Hearing impairment,45792,Monthly
+44,Kanpur,Female,579545,Secondary education,Technician,Urban,Medium,Cognitive impairment,49371,Monthly
+76,Patna,Female,386445,Primary education,Businessperson,Urban,High,Cognitive impairment,74632,Weekly
+70,Lucknow,Non-binary,802810,Undergraduate degree,Unemployed,Urban,Medium,Hearing impairment,6665,Daily
+71,Bengaluru,Male,722769,Undergraduate degree,Student,Urban,High,Cognitive impairment,99497,Monthly
+21,Pimpri-Chinchwad,Male,326328,Secondary education,Businessperson,Sub-urban,Low,Visual impairment (Blind),17467,Weekly
+48,Ahmedabad,Non-binary,823755,Primary education,Teacher,Urban,Medium,Hearing impairment,36224,Daily
+68,Pune,Non-binary,1848993,Undergraduate degree,Artist,Sub-urban,Low,Hearing impairment,75630,Daily
+18,Mumbai,Male,791166,Postgraduate degree,Artist,Urban,High,Speech impairment,51731,Weekly
+51,Pune,Female,1367859,Secondary education,Unemployed,Sub-urban,Low,Mobility impairment,98479,Daily
+76,Visakhapatnam,Female,613610,Primary education,Unemployed,Rural,Medium,Cognitive impairment,45526,Daily
+48,Lucknow,Female,223947,No formal education,Doctor,Sub-urban,Medium,Speech impairment,95983,Monthly
+52,Kolkata,Male,580455,Secondary education,Teacher,Urban,Medium,Hearing impairment,38031,Daily
+22,Pune,Non-binary,113862,No formal education,Student,Urban,High,Cognitive impairment,69278,Monthly
+71,Pimpri-Chinchwad,Male,1151421,No formal education,Artist,Sub-urban,Low,Cognitive impairment,37469,Daily
+39,Mumbai,Female,1946550,Secondary education,Teacher,Rural,Low,Hearing impairment,95423,Weekly
+67,Delhi,Male,1450364,Secondary education,Technician,Urban,High,Speech impairment,89719,Monthly
+42,Vadodara,Non-binary,468173,Primary education,Doctor,Rural,Low,Hearing impairment,66552,Daily
+56,Delhi,Non-binary,1744104,Secondary education,Farmer,Rural,Medium,Speech impairment,77061,Daily
+26,Chennai,Non-binary,933149,Postgraduate degree,Unemployed,Rural,Medium,Hearing impairment,89429,Daily
+24,Ahmedabad,Female,1226043,Primary education,Engineer,Sub-urban,Low,Visual impairment (Blind),8994,Daily
+65,Jaipur,Male,1554960,Undergraduate degree,Artist,Sub-urban,High,Visual impairment (Blind),96877,Daily
+68,Ahmedabad,Male,661469,Secondary education,Unemployed,Rural,Low,Visual impairment (Blind),82373,Monthly
+19,Indore,Non-binary,412427,No formal education,Engineer,Rural,Low,Cognitive impairment,62776,Weekly
+60,Jaipur,Non-binary,408087,Undergraduate degree,Farmer,Rural,Medium,Mobility impairment,43452,Monthly
+24,Lucknow,Non-binary,361005,Primary education,Student,Urban,Medium,Hearing impairment,46452,Daily
+33,Nagpur,Non-binary,197672,Postgraduate degree,Farmer,Rural,High,Speech impairment,83201,Monthly
+45,Ahmedabad,Male,992468,Undergraduate degree,Student,Urban,Low,Cognitive impairment,45756,Daily
+44,Kanpur,Non-binary,519975,Primary education,Teacher,Rural,Low,Mobility impairment,13323,Weekly
+67,Kolkata,Non-binary,1314449,Secondary education,Farmer,Rural,Medium,Hearing impairment,51368,Monthly
+23,Kanpur,Male,1656008,Undergraduate degree,Businessperson,Sub-urban,Medium,Cognitive impairment,58411,Monthly
+50,Indore,Male,773744,Primary education,Teacher,Urban,Medium,Speech impairment,92405,Weekly
+30,Ahmedabad,Female,135945,No formal education,Teacher,Rural,Low,Hearing impairment,67806,Weekly
+26,Indore,Female,808670,Undergraduate degree,Engineer,Urban,Medium,Hearing impairment,16938,Weekly
+27,Delhi,Female,1932964,Undergraduate degree,Student,Rural,Low,Mobility impairment,60911,Daily
+55,Thane,Male,1475021,Postgraduate degree,Engineer,Urban,High,Cognitive impairment,29599,Weekly
+52,Mumbai,Non-binary,1100377,Primary education,Engineer,Urban,Medium,Hearing impairment,98206,Weekly
+30,Nagpur,Non-binary,1792945,Secondary education,Technician,Urban,Low,Mobility impairment,59900,Daily
+49,Delhi,Female,1619649,Undergraduate degree,Unemployed,Urban,Medium,Mobility impairment,75872,Daily
+34,Jaipur,Male,988515,Postgraduate degree,Engineer,Rural,High,Cognitive impairment,30505,Weekly
+75,Kanpur,Female,726122,Postgraduate degree,Technician,Sub-urban,Medium,Speech impairment,10461,Monthly
+26,Ahmedabad,Female,321426,Primary education,Unemployed,Sub-urban,Medium,Hearing impairment,56563,Daily
+27,Mumbai,Male,1688661,Undergraduate degree,Student,Sub-urban,Low,Hearing impairment,40003,Monthly
+72,Kolkata,Non-binary,591786,Secondary education,Student,Sub-urban,High,Speech impairment,62496,Weekly
+63,Bhopal,Female,398899,Secondary education,Unemployed,Sub-urban,Low,Speech impairment,37599,Daily
+44,Mumbai,Non-binary,1301994,Postgraduate degree,Businessperson,Sub-urban,Medium,Visual impairment (Blind),87070,Weekly
+43,Ahmedabad,Non-binary,1240999,Secondary education,Businessperson,Sub-urban,High,Hearing impairment,22738,Daily
+37,Indore,Male,855619,No formal education,Unemployed,Rural,Low,Speech impairment,86322,Weekly
+40,Surat,Non-binary,1190688,Secondary education,Artist,Rural,Medium,Hearing impairment,85463,Monthly
+31,Bengaluru,Male,1813791,No formal education,Businessperson,Urban,High,Visual impairment (Blind),8131,Monthly
+61,Bengaluru,Male,1619697,Undergraduate degree,Artist,Rural,Medium,Hearing impairment,71741,Monthly
+79,Hyderabad,Female,1817906,Secondary education,Farmer,Rural,Medium,Speech impairment,80729,Monthly
+63,Chennai,Male,1697740,Postgraduate degree,Student,Rural,High,Visual impairment (Blind),70882,Weekly
+36,Patna,Male,834072,Secondary education,Student,Sub-urban,Low,Mobility impairment,27522,Daily
+24,Vadodara,Female,1129016,Postgraduate degree,Unemployed,Urban,High,Speech impairment,67738,Daily
+42,Kolkata,Female,1174844,Undergraduate degree,Technician,Sub-urban,Medium,Mobility impairment,43584,Monthly
+78,Ahmedabad,Non-binary,409110,Primary education,Technician,Rural,Medium,Cognitive impairment,86784,Monthly
+29,Bhopal,Male,896915,Undergraduate degree,Doctor,Rural,High,Visual impairment (Blind),60186,Monthly
+67,Kolkata,Non-binary,1423970,No formal education,Doctor,Rural,Low,Speech impairment,15296,Weekly
+69,Bhopal,Female,1174732,No formal education,Artist,Sub-urban,Medium,Cognitive impairment,47200,Monthly
+50,Jaipur,Male,1737574,Postgraduate degree,Doctor,Sub-urban,High,Speech impairment,26914,Monthly
+79,Hyderabad,Non-binary,1431005,Primary education,Teacher,Rural,Medium,Visual impairment (Blind),53932,Daily
+33,Lucknow,Male,1613002,Secondary education,Businessperson,Rural,Medium,Hearing impairment,58132,Monthly
+67,Jaipur,Non-binary,754135,Undergraduate degree,Artist,Sub-urban,Medium,Hearing impairment,42908,Daily
+20,Bhopal,Non-binary,530155,Postgraduate degree,Doctor,Rural,High,Cognitive impairment,66622,Monthly
+47,Delhi,Non-binary,1726163,Secondary education,Engineer,Rural,High,Hearing impairment,15343,Weekly
+50,Ahmedabad,Male,250041,No formal education,Doctor,Rural,Low,Cognitive impairment,6016,Monthly
+80,Vadodara,Non-binary,758551,Primary education,Unemployed,Sub-urban,Medium,Hearing impairment,33481,Daily
+18,Delhi,Non-binary,934420,Undergraduate degree,Farmer,Rural,Low,Speech impairment,23230,Weekly
+57,Bhopal,Non-binary,474585,Secondary education,Farmer,Urban,Low,Cognitive impairment,89665,Monthly
+58,Visakhapatnam,Male,460142,Primary education,Doctor,Rural,Low,Speech impairment,29786,Weekly
+34,Visakhapatnam,Male,778407,Primary education,Student,Urban,Medium,Mobility impairment,94560,Daily
+65,Thane,Female,459691,Undergraduate degree,Farmer,Rural,Medium,Speech impairment,70017,Daily
+68,Delhi,Non-binary,1745380,No formal education,Student,Sub-urban,Low,Hearing impairment,57117,Monthly
+75,Mumbai,Non-binary,1481985,Postgraduate degree,Unemployed,Sub-urban,High,Cognitive impairment,24948,Monthly
+67,Kanpur,Male,447928,Undergraduate degree,Artist,Rural,High,Visual impairment (Blind),41838,Daily
+39,Delhi,Non-binary,457353,Secondary education,Unemployed,Urban,Medium,Hearing impairment,91192,Daily
+35,Hyderabad,Non-binary,630622,No formal education,Doctor,Rural,High,Mobility impairment,64541,Daily
+53,Jaipur,Non-binary,636093,Secondary education,Artist,Sub-urban,Low,Visual impairment (Blind),66509,Weekly
+40,Pune,Female,1756431,Primary education,Artist,Rural,High,Mobility impairment,58544,Weekly
+34,Visakhapatnam,Non-binary,184311,Undergraduate degree,Farmer,Sub-urban,Medium,Hearing impairment,12834,Weekly
+21,Kolkata,Female,1501952,Postgraduate degree,Unemployed,Sub-urban,High,Cognitive impairment,75677,Weekly
+48,Jaipur,Non-binary,1034947,Primary education,Doctor,Rural,High,Hearing impairment,63351,Daily
+70,Patna,Male,969850,No formal education,Farmer,Sub-urban,Medium,Cognitive impairment,30877,Weekly
+35,Kolkata,Non-binary,1431315,Postgraduate degree,Engineer,Sub-urban,Low,Visual impairment (Blind),31477,Monthly
+52,Jaipur,Female,1850957,Secondary education,Unemployed,Rural,Medium,Mobility impairment,8609,Daily
+76,Indore,Male,934108,Primary education,Unemployed,Rural,Low,Visual impairment (Blind),29491,Daily
+61,Visakhapatnam,Non-binary,1888275,Primary education,Farmer,Sub-urban,Low,Visual impairment (Blind),8625,Daily
+60,Pimpri-Chinchwad,Non-binary,612104,Undergraduate degree,Unemployed,Sub-urban,Low,Mobility impairment,22281,Weekly
+74,Chennai,Male,1242560,Postgraduate degree,Teacher,Urban,High,Mobility impairment,13584,Monthly
+72,Kanpur,Female,1274898,Postgraduate degree,Businessperson,Rural,High,Cognitive impairment,41551,Weekly
+48,Chennai,Male,1285000,Primary education,Engineer,Sub-urban,Medium,Hearing impairment,23243,Weekly
+34,Pune,Female,1915857,Undergraduate degree,Teacher,Sub-urban,Medium,Speech impairment,13100,Monthly
+54,Mumbai,Non-binary,1184049,Postgraduate degree,Technician,Sub-urban,Medium,Hearing impairment,64057,Weekly
+51,Delhi,Non-binary,1861000,No formal education,Engineer,Urban,Medium,Cognitive impairment,5726,Weekly
+75,Bengaluru,Female,1341888,Postgraduate degree,Artist,Rural,Low,Cognitive impairment,72509,Weekly
+50,Bengaluru,Non-binary,1806432,Primary education,Doctor,Sub-urban,Low,Cognitive impairment,45351,Weekly
+31,Bhopal,Non-binary,1027897,Postgraduate degree,Businessperson,Sub-urban,Medium,Speech impairment,25011,Daily
+69,Thane,Non-binary,791432,Undergraduate degree,Businessperson,Sub-urban,Low,Mobility impairment,68039,Monthly
+67,Indore,Male,480551,Postgraduate degree,Unemployed,Rural,Low,Hearing impairment,50364,Weekly
+73,Mumbai,Male,1750537,Undergraduate degree,Engineer,Rural,Medium,Visual impairment (Blind),29791,Daily
+41,Visakhapatnam,Female,254989,No formal education,Businessperson,Rural,Low,Cognitive impairment,5586,Daily
+75,Chennai,Non-binary,889026,Undergraduate degree,Farmer,Urban,Medium,Cognitive impairment,74634,Daily
+18,Patna,Male,1432000,Undergraduate degree,Doctor,Rural,Low,Hearing impairment,60797,Weekly
+60,Visakhapatnam,Female,457521,Primary education,Doctor,Rural,Low,Cognitive impairment,35745,Monthly
+72,Thane,Male,421144,Primary education,Teacher,Urban,Medium,Cognitive impairment,88542,Daily
+77,Mumbai,Non-binary,363786,Secondary education,Doctor,Rural,Medium,Visual impairment (Blind),20319,Monthly
+18,Vadodara,Female,1991010,Primary education,Artist,Sub-urban,Medium,Cognitive impairment,89133,Daily
+71,Surat,Female,262050,Primary education,Unemployed,Urban,Low,Speech impairment,96539,Daily
+49,Delhi,Non-binary,1107152,Secondary education,Artist,Sub-urban,Medium,Speech impairment,61748,Monthly
+75,Visakhapatnam,Male,647567,Postgraduate degree,Doctor,Urban,Medium,Cognitive impairment,80115,Weekly
+55,Ahmedabad,Non-binary,504839,Postgraduate degree,Doctor,Rural,Low,Visual impairment (Blind),6204,Monthly
+45,Kolkata,Non-binary,1029944,Undergraduate degree,Farmer,Sub-urban,Medium,Hearing impairment,38619,Monthly
+23,Thane,Non-binary,1129934,No formal education,Farmer,Urban,Medium,Cognitive impairment,35345,Monthly
+36,Thane,Female,1733602,Undergraduate degree,Unemployed,Rural,High,Hearing impairment,60631,Daily
+22,Kolkata,Female,879286,Secondary education,Farmer,Rural,Low,Hearing impairment,9881,Monthly
+34,Nagpur,Non-binary,1796509,Secondary education,Artist,Rural,Low,Speech impairment,43537,Daily
+36,Mumbai,Non-binary,484095,Secondary education,Unemployed,Urban,High,Speech impairment,98135,Weekly
+51,Pimpri-Chinchwad,Non-binary,1164670,No formal education,Student,Urban,High,Cognitive impairment,28256,Daily
+40,Kolkata,Non-binary,1895848,No formal education,Farmer,Sub-urban,High,Cognitive impairment,25201,Monthly
+60,Kolkata,Male,1125463,Undergraduate degree,Unemployed,Sub-urban,Low,Mobility impairment,27875,Daily
+27,Hyderabad,Non-binary,976819,Undergraduate degree,Teacher,Sub-urban,Medium,Visual impairment (Blind),47973,Weekly
+67,Jaipur,Female,253635,Primary education,Engineer,Urban,High,Mobility impairment,94991,Weekly
+33,Thane,Non-binary,1796951,Postgraduate degree,Businessperson,Urban,Medium,Cognitive impairment,91083,Monthly
+51,Pune,Male,1747601,Primary education,Artist,Urban,High,Speech impairment,10615,Weekly
+67,Jaipur,Non-binary,1827610,Primary education,Teacher,Sub-urban,Medium,Hearing impairment,94351,Monthly
+71,Nagpur,Female,632002,Postgraduate degree,Teacher,Sub-urban,Medium,Visual impairment (Blind),16226,Monthly
+46,Delhi,Non-binary,319596,No formal education,Unemployed,Rural,Medium,Speech impairment,11481,Monthly
+66,Nagpur,Non-binary,1256106,Undergraduate degree,Artist,Urban,Medium,Hearing impairment,62772,Weekly
+49,Bhopal,Female,1784200,Primary education,Doctor,Sub-urban,Low,Cognitive impairment,24737,Daily
+32,Pune,Male,936192,Postgraduate degree,Engineer,Sub-urban,Low,Hearing impairment,14820,Daily
+60,Indore,Male,348443,Postgraduate degree,Teacher,Sub-urban,Medium,Speech impairment,71908,Weekly
+28,Pune,Male,761260,Postgraduate degree,Unemployed,Sub-urban,Medium,Cognitive impairment,46143,Monthly
+71,Jaipur,Female,683438,No formal education,Student,Sub-urban,Low,Visual impairment (Blind),43122,Weekly
+20,Pimpri-Chinchwad,Female,1428124,Undergraduate degree,Teacher,Rural,Low,Mobility impairment,39593,Daily
+64,Jaipur,Non-binary,693780,Undergraduate degree,Teacher,Sub-urban,Low,Speech impairment,74344,Weekly
+76,Pune,Male,794075,Primary education,Businessperson,Sub-urban,Low,Mobility impairment,87047,Monthly
+66,Hyderabad,Non-binary,1276379,Secondary education,Teacher,Urban,Medium,Visual impairment (Blind),66344,Monthly
+43,Patna,Male,1992338,Primary education,Technician,Rural,Medium,Cognitive impairment,88768,Daily
+25,Kanpur,Non-binary,968297,Secondary education,Doctor,Sub-urban,High,Cognitive impairment,76200,Monthly
+40,Bhopal,Female,1475348,Postgraduate degree,Doctor,Sub-urban,Low,Visual impairment (Blind),82036,Monthly
+38,Lucknow,Non-binary,1505568,No formal education,Farmer,Rural,Low,Hearing impairment,93498,Weekly
+40,Hyderabad,Female,1170638,No formal education,Artist,Rural,High,Mobility impairment,20365,Weekly
+40,Thane,Female,1312529,Postgraduate degree,Doctor,Rural,Medium,Mobility impairment,80561,Daily
+28,Delhi,Male,331769,Postgraduate degree,Artist,Sub-urban,High,Cognitive impairment,57275,Weekly
+73,Nagpur,Female,1202546,Primary education,Teacher,Urban,High,Visual impairment (Blind),10433,Weekly
+38,Lucknow,Non-binary,1042460,Postgraduate degree,Farmer,Sub-urban,High,Hearing impairment,46186,Daily
+68,Nagpur,Male,1914579,Undergraduate degree,Doctor,Rural,High,Visual impairment (Blind),82606,Weekly
+26,Indore,Male,1640048,Primary education,Teacher,Urban,High,Visual impairment (Blind),34157,Weekly
+60,Bengaluru,Female,931665,Secondary education,Student,Sub-urban,High,Speech impairment,46139,Daily
+47,Kolkata,Male,1529291,Postgraduate degree,Engineer,Sub-urban,High,Visual impairment (Blind),37499,Monthly
+26,Jaipur,Male,1757334,Secondary education,Engineer,Rural,High,Cognitive impairment,26124,Daily
+56,Kolkata,Female,1942456,Undergraduate degree,Teacher,Sub-urban,Medium,Speech impairment,46086,Daily
+20,Mumbai,Non-binary,1698153,Secondary education,Businessperson,Urban,Medium,Cognitive impairment,98400,Daily
+28,Delhi,Non-binary,1443393,Secondary education,Farmer,Sub-urban,Medium,Hearing impairment,69671,Monthly
+59,Chennai,Non-binary,1117080,No formal education,Unemployed,Urban,Medium,Hearing impairment,99819,Weekly
+68,Bhopal,Female,1701674,Postgraduate degree,Student,Rural,High,Visual impairment (Blind),47106,Monthly
+41,Kanpur,Female,757463,Undergraduate degree,Artist,Sub-urban,High,Mobility impairment,53690,Weekly
+80,Kanpur,Male,1381488,Postgraduate degree,Artist,Rural,Low,Speech impairment,53589,Daily
+58,Lucknow,Female,656634,Primary education,Doctor,Rural,Medium,Visual impairment (Blind),22282,Weekly
+20,Surat,Female,613091,No formal education,Farmer,Sub-urban,Medium,Cognitive impairment,97300,Monthly
+76,Hyderabad,Non-binary,466768,Primary education,Doctor,Rural,High,Hearing impairment,51896,Monthly
+66,Surat,Non-binary,769414,No formal education,Teacher,Rural,Low,Cognitive impairment,67408,Monthly
+62,Indore,Male,1952896,Undergraduate degree,Businessperson,Sub-urban,High,Mobility impairment,29425,Monthly
+72,Pimpri-Chinchwad,Male,1220507,Undergraduate degree,Businessperson,Sub-urban,High,Visual impairment (Blind),50897,Weekly
+26,Delhi,Male,1092823,Primary education,Businessperson,Rural,High,Hearing impairment,60800,Weekly
+21,Thane,Female,1742336,Postgraduate degree,Artist,Sub-urban,Medium,Mobility impairment,57016,Daily
+38,Delhi,Female,918484,Secondary education,Unemployed,Rural,Low,Mobility impairment,66887,Daily
+63,Vadodara,Female,1220019,Primary education,Engineer,Sub-urban,High,Visual impairment (Blind),20264,Daily
+35,Visakhapatnam,Non-binary,1048292,Undergraduate degree,Businessperson,Sub-urban,Medium,Speech impairment,94758,Monthly
+43,Mumbai,Male,1382620,Undergraduate degree,Technician,Rural,Medium,Cognitive impairment,61178,Weekly
+29,Chennai,Non-binary,1771211,Secondary education,Student,Rural,Low,Visual impairment (Blind),94415,Weekly
+54,Bengaluru,Male,1090946,Undergraduate degree,Artist,Rural,High,Hearing impairment,33717,Daily
+23,Thane,Non-binary,473041,Secondary education,Unemployed,Sub-urban,Medium,Visual impairment (Blind),94881,Weekly
+50,Mumbai,Female,471196,Postgraduate degree,Businessperson,Urban,Low,Visual impairment (Blind),15748,Daily
+75,Pimpri-Chinchwad,Non-binary,825277,Primary education,Technician,Rural,Medium,Speech impairment,10896,Monthly
+51,Vadodara,Non-binary,1616875,Postgraduate degree,Technician,Urban,Medium,Hearing impairment,48158,Daily
+26,Bhopal,Male,1877064,No formal education,Unemployed,Sub-urban,Low,Visual impairment (Blind),65518,Daily
+37,Bhopal,Female,1369086,Undergraduate degree,Artist,Sub-urban,Medium,Visual impairment (Blind),14249,Daily
+73,Nagpur,Male,1901582,Undergraduate degree,Technician,Sub-urban,Medium,Mobility impairment,9439,Monthly
+72,Vadodara,Female,731310,Secondary education,Farmer,Urban,High,Visual impairment (Blind),30612,Daily
+60,Mumbai,Non-binary,1041659,Primary education,Technician,Sub-urban,Medium,Mobility impairment,64024,Monthly
+25,Indore,Female,976566,Undergraduate degree,Doctor,Urban,Medium,Hearing impairment,94132,Weekly
+18,Surat,Female,513269,Postgraduate degree,Farmer,Sub-urban,Medium,Hearing impairment,82873,Monthly
+39,Mumbai,Non-binary,1333980,No formal education,Engineer,Urban,Medium,Speech impairment,23428,Weekly
+62,Nagpur,Female,1720724,Secondary education,Teacher,Sub-urban,Low,Mobility impairment,15314,Daily
+61,Pimpri-Chinchwad,Female,487005,Postgraduate degree,Businessperson,Sub-urban,High,Visual impairment (Blind),85502,Monthly
+40,Hyderabad,Non-binary,459982,Secondary education,Student,Sub-urban,High,Mobility impairment,81393,Monthly
+71,Nagpur,Female,1040160,Postgraduate degree,Teacher,Urban,Medium,Hearing impairment,11789,Weekly
+36,Bhopal,Non-binary,1147265,Primary education,Doctor,Rural,Medium,Mobility impairment,72251,Weekly
+65,Vadodara,Male,881234,No formal education,Engineer,Rural,Medium,Mobility impairment,61035,Weekly
+24,Visakhapatnam,Female,316743,Postgraduate degree,Farmer,Sub-urban,Medium,Cognitive impairment,71628,Daily
+27,Indore,Male,1397100,Secondary education,Engineer,Sub-urban,Low,Hearing impairment,39042,Daily
+71,Nagpur,Non-binary,198003,Undergraduate degree,Teacher,Urban,Low,Cognitive impairment,34903,Weekly
+21,Jaipur,Male,489420,Primary education,Doctor,Urban,Low,Hearing impairment,6803,Monthly
+40,Jaipur,Non-binary,246419,Postgraduate degree,Technician,Sub-urban,Low,Cognitive impairment,16968,Weekly
+18,Bhopal,Non-binary,1852555,Primary education,Farmer,Urban,High,Mobility impairment,74822,Weekly
+45,Kanpur,Female,1217393,Primary education,Doctor,Sub-urban,Medium,Visual impairment (Blind),39911,Daily
+19,Nagpur,Female,159105,Undergraduate degree,Farmer,Urban,High,Visual impairment (Blind),8065,Daily
+44,Patna,Female,1400632,Undergraduate degree,Artist,Urban,Medium,Mobility impairment,94876,Daily
+77,Hyderabad,Male,562441,Postgraduate degree,Farmer,Sub-urban,Medium,Cognitive impairment,43329,Daily
+53,Chennai,Non-binary,1936126,Undergraduate degree,Teacher,Sub-urban,High,Visual impairment (Blind),51655,Monthly
+57,Patna,Male,490090,Secondary education,Technician,Rural,High,Mobility impairment,13140,Daily
+22,Chennai,Male,426923,Postgraduate degree,Businessperson,Urban,Medium,Mobility impairment,91116,Monthly
+65,Delhi,Female,373051,Postgraduate degree,Engineer,Sub-urban,High,Speech impairment,61076,Weekly
+39,Lucknow,Female,770518,Secondary education,Artist,Urban,High,Cognitive impairment,13972,Weekly
+26,Kolkata,Male,1148554,Primary education,Engineer,Urban,Low,Visual impairment (Blind),58548,Monthly
+71,Kolkata,Male,842498,Undergraduate degree,Technician,Urban,Medium,Speech impairment,94312,Weekly
+35,Bhopal,Female,1208411,Primary education,Teacher,Urban,Medium,Cognitive impairment,23741,Monthly
+29,Lucknow,Non-binary,1385158,Undergraduate degree,Farmer,Rural,High,Mobility impairment,76050,Monthly
+74,Indore,Non-binary,1100808,Undergraduate degree,Technician,Sub-urban,Low,Hearing impairment,77168,Weekly
+74,Bhopal,Non-binary,1603010,Primary education,Student,Sub-urban,Medium,Mobility impairment,25737,Weekly
+45,Patna,Male,1630107,Postgraduate degree,Teacher,Sub-urban,High,Cognitive impairment,6652,Monthly
+64,Kanpur,Female,539651,Primary education,Unemployed,Urban,High,Visual impairment (Blind),92987,Daily
+70,Kanpur,Male,1959224,No formal education,Student,Rural,High,Speech impairment,49902,Daily
+63,Vadodara,Female,928687,Secondary education,Farmer,Urban,Medium,Mobility impairment,33234,Monthly
+22,Indore,Non-binary,1337590,Undergraduate degree,Businessperson,Rural,Medium,Mobility impairment,57981,Weekly
+79,Chennai,Female,1850616,No formal education,Businessperson,Urban,Medium,Visual impairment (Blind),36776,Weekly
+50,Chennai,Female,1507624,Primary education,Artist,Sub-urban,Medium,Mobility impairment,74201,Daily
+46,Chennai,Non-binary,113570,No formal education,Businessperson,Urban,Medium,Mobility impairment,37495,Daily
+30,Thane,Female,399890,Undergraduate degree,Farmer,Sub-urban,Medium,Visual impairment (Blind),46350,Weekly
+43,Pune,Male,1114523,Undergraduate degree,Teacher,Rural,High,Mobility impairment,54212,Monthly
+80,Indore,Non-binary,1635881,No formal education,Artist,Urban,Medium,Hearing impairment,74771,Monthly
+20,Patna,Female,1785607,Primary education,Unemployed,Rural,High,Cognitive impairment,41768,Weekly
+51,Vadodara,Female,348286,Secondary education,Teacher,Urban,High,Speech impairment,35947,Daily
+55,Hyderabad,Non-binary,1315147,Undergraduate degree,Doctor,Urban,High,Mobility impairment,68670,Weekly
+25,Patna,Female,1736194,Postgraduate degree,Technician,Sub-urban,Medium,Hearing impairment,88349,Daily
+21,Delhi,Male,1063142,Postgraduate degree,Teacher,Sub-urban,Medium,Speech impairment,93497,Monthly
+70,Ahmedabad,Male,532665,Undergraduate degree,Farmer,Rural,Low,Speech impairment,51035,Daily
+55,Pune,Female,1645203,Primary education,Doctor,Urban,High,Cognitive impairment,45826,Weekly
+74,Visakhapatnam,Female,1128613,Secondary education,Farmer,Rural,High,Cognitive impairment,73052,Weekly
+32,Kolkata,Female,878702,Primary education,Businessperson,Urban,High,Hearing impairment,20592,Monthly
+50,Vadodara,Non-binary,1819194,Postgraduate degree,Technician,Rural,Medium,Hearing impairment,86549,Monthly
+26,Kanpur,Female,1056120,Primary education,Technician,Urban,Low,Cognitive impairment,97155,Monthly
+22,Lucknow,Female,581809,Primary education,Student,Rural,High,Cognitive impairment,98805,Monthly
+28,Vadodara,Male,456436,Secondary education,Student,Urban,High,Speech impairment,24309,Monthly
+54,Lucknow,Male,827289,Undergraduate degree,Businessperson,Rural,Low,Mobility impairment,51357,Weekly
+28,Pimpri-Chinchwad,Female,1528126,Primary education,Engineer,Urban,High,Mobility impairment,8034,Monthly
+18,Delhi,Non-binary,1464700,Secondary education,Teacher,Sub-urban,Medium,Visual impairment (Blind),25324,Weekly
+33,Surat,Female,1808857,No formal education,Engineer,Sub-urban,High,Visual impairment (Blind),84849,Monthly
+47,Bengaluru,Non-binary,164370,No formal education,Engineer,Sub-urban,High,Visual impairment (Blind),63843,Daily
+48,Delhi,Female,1055892,Undergraduate degree,Artist,Sub-urban,Medium,Mobility impairment,20272,Daily
+52,Mumbai,Female,251692,Postgraduate degree,Unemployed,Sub-urban,Medium,Mobility impairment,91749,Weekly
+71,Delhi,Female,579810,Undergraduate degree,Teacher,Urban,Medium,Mobility impairment,87922,Monthly
+44,Indore,Non-binary,610316,Undergraduate degree,Student,Rural,Medium,Mobility impairment,71593,Daily
+58,Thane,Male,1758214,No formal education,Businessperson,Rural,Medium,Visual impairment (Blind),64441,Weekly
+69,Jaipur,Non-binary,589998,No formal education,Teacher,Rural,Medium,Mobility impairment,17758,Weekly
+54,Pimpri-Chinchwad,Non-binary,1895119,No formal education,Engineer,Urban,High,Mobility impairment,65761,Daily
+45,Bhopal,Male,273883,No formal education,Doctor,Rural,Low,Hearing impairment,43382,Monthly
+44,Bengaluru,Non-binary,905966,Primary education,Doctor,Urban,Low,Visual impairment (Blind),92129,Weekly
+22,Lucknow,Female,1668091,Secondary education,Doctor,Rural,High,Visual impairment (Blind),9876,Weekly
+67,Bengaluru,Female,883840,Secondary education,Farmer,Urban,Medium,Mobility impairment,69170,Daily
+57,Kolkata,Male,989738,No formal education,Doctor,Urban,Medium,Hearing impairment,28440,Monthly
+27,Kolkata,Non-binary,495654,Undergraduate degree,Businessperson,Sub-urban,Medium,Speech impairment,37322,Daily
+53,Pimpri-Chinchwad,Female,1269869,Postgraduate degree,Engineer,Rural,Low,Hearing impairment,41988,Daily
+63,Surat,Non-binary,704317,Primary education,Doctor,Rural,High,Cognitive impairment,17080,Weekly
+32,Pune,Non-binary,1710229,Undergraduate degree,Student,Sub-urban,Low,Hearing impairment,24010,Weekly
+25,Bhopal,Female,955407,Undergraduate degree,Teacher,Urban,High,Cognitive impairment,78515,Monthly
+56,Surat,Male,1504725,Undergraduate degree,Teacher,Urban,Medium,Mobility impairment,85608,Weekly
+36,Hyderabad,Male,280116,Undergraduate degree,Businessperson,Urban,Low,Hearing impairment,51336,Daily
+22,Hyderabad,Female,1641265,Postgraduate degree,Engineer,Sub-urban,High,Cognitive impairment,37398,Monthly
+38,Hyderabad,Non-binary,1489359,Primary education,Technician,Rural,Low,Hearing impairment,39815,Monthly
+66,Pimpri-Chinchwad,Male,1867839,No formal education,Technician,Rural,High,Mobility impairment,32484,Weekly
+18,Jaipur,Non-binary,1850520,Postgraduate degree,Student,Rural,Low,Mobility impairment,96994,Weekly
+49,Delhi,Male,1996943,No formal education,Artist,Rural,Low,Cognitive impairment,44087,Monthly
+42,Bengaluru,Male,534687,Undergraduate degree,Technician,Urban,Low,Mobility impairment,80619,Weekly
+41,Patna,Non-binary,1209488,No formal education,Teacher,Urban,Low,Mobility impairment,83376,Daily
+37,Hyderabad,Female,1386564,Primary education,Teacher,Sub-urban,Low,Visual impairment (Blind),90757,Weekly
+60,Indore,Non-binary,344500,Primary education,Businessperson,Rural,Low,Mobility impairment,44790,Daily
+70,Patna,Female,1926610,Primary education,Student,Urban,High,Cognitive impairment,89338,Monthly
+79,Kanpur,Male,1259328,Undergraduate degree,Businessperson,Rural,Low,Speech impairment,79365,Weekly
+31,Ahmedabad,Non-binary,1040941,Secondary education,Teacher,Urban,Medium,Mobility impairment,69111,Weekly
+33,Bhopal,Non-binary,267860,Undergraduate degree,Unemployed,Sub-urban,High,Visual impairment (Blind),13102,Monthly
+36,Chennai,Female,384247,Postgraduate degree,Artist,Urban,Low,Mobility impairment,12006,Weekly
+26,Lucknow,Male,1723661,No formal education,Technician,Rural,Low,Hearing impairment,48602,Daily
+37,Kanpur,Male,655938,No formal education,Engineer,Urban,Low,Speech impairment,65067,Monthly
+67,Hyderabad,Female,640405,No formal education,Artist,Rural,Low,Visual impairment (Blind),33719,Monthly
+49,Surat,Non-binary,234220,No formal education,Unemployed,Rural,Low,Cognitive impairment,67665,Daily
+35,Delhi,Male,1132124,Primary education,Farmer,Urban,High,Cognitive impairment,25369,Daily
+18,Delhi,Male,1521761,Undergraduate degree,Teacher,Urban,High,Mobility impairment,49860,Weekly
+71,Delhi,Male,275609,Secondary education,Doctor,Sub-urban,Medium,Mobility impairment,14139,Weekly
+72,Vadodara,Male,1022131,Postgraduate degree,Businessperson,Urban,Medium,Cognitive impairment,14565,Monthly
+53,Ahmedabad,Female,1820211,Postgraduate degree,Businessperson,Sub-urban,Low,Mobility impairment,97366,Daily
+42,Ahmedabad,Non-binary,1076175,Postgraduate degree,Businessperson,Sub-urban,Low,Visual impairment (Blind),72672,Daily
+61,Indore,Non-binary,1845528,No formal education,Teacher,Rural,High,Mobility impairment,21411,Daily
+64,Thane,Female,968393,Secondary education,Artist,Urban,Low,Hearing impairment,42945,Weekly
+75,Delhi,Male,1549570,Postgraduate degree,Farmer,Urban,Low,Mobility impairment,62663,Daily
+49,Hyderabad,Male,1569958,Primary education,Teacher,Sub-urban,High,Visual impairment (Blind),20579,Daily
+54,Surat,Non-binary,542861,Postgraduate degree,Teacher,Rural,Medium,Visual impairment (Blind),94967,Daily
+68,Kolkata,Male,119413,No formal education,Technician,Rural,Medium,Speech impairment,59259,Monthly
+66,Kanpur,Female,618745,Secondary education,Doctor,Urban,Low,Speech impairment,90233,Weekly
+34,Nagpur,Non-binary,1650732,Primary education,Technician,Rural,Medium,Cognitive impairment,59419,Weekly
+77,Jaipur,Female,284445,Undergraduate degree,Teacher,Urban,Low,Hearing impairment,21704,Daily
+19,Lucknow,Male,1110418,Undergraduate degree,Engineer,Sub-urban,Medium,Speech impairment,44297,Monthly
+56,Pune,Male,350700,Postgraduate degree,Unemployed,Rural,Low,Hearing impairment,78624,Weekly
+38,Indore,Female,1371248,Undergraduate degree,Student,Urban,High,Mobility impairment,86277,Weekly
+32,Delhi,Non-binary,1654078,Secondary education,Farmer,Urban,Low,Mobility impairment,14975,Daily
+58,Nagpur,Male,1983323,Postgraduate degree,Farmer,Urban,Low,Hearing impairment,75021,Daily
+48,Surat,Female,1696266,Secondary education,Technician,Urban,High,Speech impairment,32580,Weekly
+22,Pune,Non-binary,1474093,Postgraduate degree,Technician,Rural,Medium,Mobility impairment,54741,Monthly
+43,Ahmedabad,Male,427819,Undergraduate degree,Student,Rural,Medium,Mobility impairment,59949,Monthly
+52,Kolkata,Non-binary,1453340,Undergraduate degree,Student,Urban,Medium,Cognitive impairment,74734,Daily
+25,Chennai,Non-binary,165705,Postgraduate degree,Technician,Urban,High,Mobility impairment,60152,Weekly
+52,Bhopal,Female,694283,Primary education,Unemployed,Sub-urban,Medium,Hearing impairment,55112,Weekly
+73,Surat,Male,1505480,No formal education,Student,Urban,Low,Mobility impairment,21992,Weekly
+59,Ahmedabad,Female,504811,Undergraduate degree,Farmer,Urban,Medium,Cognitive impairment,47414,Monthly
+66,Indore,Non-binary,482422,Undergraduate degree,Teacher,Urban,High,Cognitive impairment,73845,Weekly
+78,Bhopal,Non-binary,264161,Postgraduate degree,Unemployed,Urban,Low,Mobility impairment,18099,Monthly
+57,Jaipur,Male,560487,Undergraduate degree,Student,Urban,High,Cognitive impairment,78997,Weekly
+79,Bengaluru,Male,1924701,Undergraduate degree,Businessperson,Rural,High,Mobility impairment,33498,Weekly
+55,Kolkata,Non-binary,465359,Postgraduate degree,Student,Sub-urban,Low,Mobility impairment,92221,Daily
+60,Bhopal,Female,571137,Secondary education,Doctor,Urban,High,Visual impairment (Blind),54730,Monthly
+68,Jaipur,Male,142114,Secondary education,Student,Rural,Low,Cognitive impairment,29134,Weekly
+26,Pimpri-Chinchwad,Female,1483725,Undergraduate degree,Artist,Urban,High,Speech impairment,87159,Daily
+19,Bhopal,Non-binary,482891,Secondary education,Engineer,Sub-urban,Medium,Visual impairment (Blind),43186,Weekly
+34,Bengaluru,Male,1715916,Primary education,Student,Sub-urban,Low,Speech impairment,17161,Weekly
+50,Patna,Non-binary,689804,No formal education,Farmer,Urban,Low,Hearing impairment,34080,Daily
+57,Thane,Non-binary,1043524,Primary education,Unemployed,Sub-urban,High,Mobility impairment,6983,Daily
+66,Chennai,Female,435708,No formal education,Student,Sub-urban,Medium,Speech impairment,86529,Monthly
+51,Chennai,Male,276461,Primary education,Farmer,Rural,Medium,Hearing impairment,46654,Monthly
+26,Ahmedabad,Non-binary,775782,Primary education,Engineer,Urban,Medium,Hearing impairment,42832,Weekly
+44,Ahmedabad,Non-binary,477192,Postgraduate degree,Businessperson,Sub-urban,High,Speech impairment,63175,Monthly
+71,Delhi,Male,1298296,No formal education,Businessperson,Sub-urban,High,Cognitive impairment,17383,Weekly
+61,Visakhapatnam,Male,701369,Undergraduate degree,Doctor,Rural,Medium,Cognitive impairment,7433,Daily
+73,Hyderabad,Female,1558089,Postgraduate degree,Businessperson,Sub-urban,High,Mobility impairment,7338,Weekly
+24,Indore,Male,647875,No formal education,Engineer,Urban,Low,Hearing impairment,87944,Weekly
+21,Vadodara,Male,1946437,No formal education,Unemployed,Sub-urban,Low,Visual impairment (Blind),69720,Weekly
+33,Pimpri-Chinchwad,Male,1056962,Primary education,Farmer,Sub-urban,Low,Hearing impairment,13492,Weekly
+41,Visakhapatnam,Non-binary,1464680,Secondary education,Doctor,Rural,High,Speech impairment,84544,Monthly
+37,Patna,Male,174162,No formal education,Unemployed,Sub-urban,Medium,Cognitive impairment,42888,Daily
+54,Nagpur,Female,182258,Postgraduate degree,Businessperson,Rural,High,Cognitive impairment,11522,Monthly
+63,Indore,Non-binary,435147,Primary education,Artist,Sub-urban,High,Speech impairment,85100,Daily
+41,Patna,Non-binary,609768,No formal education,Businessperson,Sub-urban,Low,Cognitive impairment,28520,Monthly
+72,Pune,Male,1150301,Primary education,Teacher,Urban,Medium,Hearing impairment,26463,Weekly
+51,Patna,Male,1061402,Secondary education,Unemployed,Rural,Low,Mobility impairment,87353,Monthly
+25,Indore,Non-binary,772534,No formal education,Technician,Sub-urban,Medium,Mobility impairment,59570,Daily
+43,Mumbai,Female,653510,Undergraduate degree,Farmer,Rural,Low,Hearing impairment,84111,Weekly
+65,Bengaluru,Female,1259274,No formal education,Teacher,Urban,Medium,Mobility impairment,6047,Daily
+57,Chennai,Non-binary,1367624,Secondary education,Engineer,Urban,High,Mobility impairment,9881,Weekly
+28,Nagpur,Male,1853518,Postgraduate degree,Unemployed,Sub-urban,Low,Visual impairment (Blind),45084,Daily
+61,Kolkata,Non-binary,1627983,Primary education,Engineer,Urban,High,Mobility impairment,13628,Daily
+42,Bhopal,Female,1942482,Undergraduate degree,Engineer,Rural,Medium,Speech impairment,25012,Weekly
+29,Jaipur,Female,703281,No formal education,Unemployed,Rural,Low,Visual impairment (Blind),89353,Weekly
+25,Visakhapatnam,Male,1661188,No formal education,Teacher,Rural,Low,Visual impairment (Blind),39455,Monthly
+66,Delhi,Non-binary,1830946,Postgraduate degree,Student,Rural,Medium,Mobility impairment,90939,Daily
+46,Indore,Non-binary,1140623,Secondary education,Businessperson,Rural,High,Hearing impairment,5299,Weekly
+31,Kolkata,Female,1176175,Primary education,Student,Urban,Low,Hearing impairment,95914,Weekly
+66,Lucknow,Male,1677870,Secondary education,Artist,Sub-urban,Low,Visual impairment (Blind),91288,Weekly
+76,Delhi,Non-binary,1507244,Primary education,Doctor,Rural,Medium,Visual impairment (Blind),64854,Weekly
+18,Bengaluru,Male,994067,Undergraduate degree,Engineer,Rural,Low,Hearing impairment,20313,Weekly
+21,Jaipur,Non-binary,1048448,No formal education,Unemployed,Rural,Low,Cognitive impairment,27131,Weekly
+55,Indore,Non-binary,998231,Undergraduate degree,Artist,Urban,Low,Cognitive impairment,24345,Weekly
+36,Surat,Female,1657857,Secondary education,Student,Urban,High,Mobility impairment,65077,Weekly
+34,Delhi,Non-binary,1455518,No formal education,Technician,Urban,Medium,Hearing impairment,24056,Monthly
+21,Lucknow,Female,1357280,Undergraduate degree,Unemployed,Rural,High,Hearing impairment,57075,Weekly
+68,Delhi,Female,1677095,Postgraduate degree,Engineer,Urban,Low,Speech impairment,78520,Monthly
+29,Patna,Male,400496,Secondary education,Unemployed,Urban,Medium,Cognitive impairment,5968,Monthly
+57,Kolkata,Female,1260389,Undergraduate degree,Engineer,Sub-urban,Medium,Hearing impairment,26218,Daily
+32,Chennai,Female,1245254,No formal education,Artist,Rural,Low,Visual impairment (Blind),6368,Weekly
+52,Visakhapatnam,Female,1073019,Primary education,Farmer,Rural,High,Visual impairment (Blind),32850,Daily
+52,Jaipur,Male,1629609,Undergraduate degree,Doctor,Rural,Low,Mobility impairment,20561,Daily
+74,Vadodara,Female,1738692,No formal education,Student,Rural,Low,Hearing impairment,28274,Weekly
+35,Indore,Male,789487,Postgraduate degree,Engineer,Rural,High,Mobility impairment,27287,Daily
+73,Thane,Female,608321,Postgraduate degree,Engineer,Rural,High,Mobility impairment,91175,Monthly
+41,Kanpur,Female,259392,Secondary education,Farmer,Sub-urban,Medium,Hearing impairment,59404,Monthly
+63,Kanpur,Male,111040,Undergraduate degree,Farmer,Rural,Medium,Hearing impairment,36868,Weekly
+68,Delhi,Female,1677101,Undergraduate degree,Artist,Rural,High,Speech impairment,88346,Monthly
+49,Surat,Non-binary,1428808,Undergraduate degree,Technician,Urban,Low,Hearing impairment,98087,Weekly
+26,Indore,Non-binary,818034,Secondary education,Engineer,Urban,Low,Mobility impairment,92856,Monthly
+25,Chennai,Male,566618,Postgraduate degree,Unemployed,Urban,Low,Cognitive impairment,11384,Weekly
+78,Bhopal,Male,789368,Secondary education,Unemployed,Urban,Medium,Visual impairment (Blind),88160,Weekly
+31,Pimpri-Chinchwad,Non-binary,1815200,Postgraduate degree,Doctor,Urban,High,Visual impairment (Blind),32323,Weekly
+55,Vadodara,Non-binary,1827548,Secondary education,Engineer,Rural,High,Speech impairment,98640,Daily
+35,Bengaluru,Female,1794368,Postgraduate degree,Teacher,Sub-urban,Medium,Speech impairment,71542,Monthly
+62,Pimpri-Chinchwad,Female,1324398,Primary education,Student,Urban,Low,Speech impairment,18403,Weekly
+79,Delhi,Non-binary,1085839,Primary education,Technician,Sub-urban,Medium,Cognitive impairment,20749,Daily
+23,Lucknow,Male,641446,No formal education,Farmer,Urban,Low,Visual impairment (Blind),29724,Daily
+63,Pune,Male,927536,No formal education,Artist,Rural,High,Hearing impairment,43168,Daily
+29,Thane,Non-binary,1090265,No formal education,Teacher,Urban,High,Visual impairment (Blind),31313,Monthly
+48,Bengaluru,Non-binary,296306,Primary education,Unemployed,Urban,Low,Visual impairment (Blind),88388,Daily
+18,Lucknow,Male,691088,Secondary education,Teacher,Rural,High,Hearing impairment,23715,Weekly
+40,Hyderabad,Female,616220,Primary education,Engineer,Rural,Medium,Cognitive impairment,62207,Monthly
+29,Visakhapatnam,Female,922288,No formal education,Engineer,Rural,Low,Hearing impairment,96545,Daily
+45,Bhopal,Female,1701048,Secondary education,Farmer,Urban,Low,Hearing impairment,31756,Daily
+66,Surat,Non-binary,693367,Primary education,Technician,Rural,High,Speech impairment,82936,Weekly
+54,Patna,Female,1748258,No formal education,Student,Sub-urban,High,Visual impairment (Blind),50912,Monthly
+66,Vadodara,Male,817737,Primary education,Unemployed,Rural,Low,Cognitive impairment,59050,Daily
+72,Thane,Female,1965741,Undergraduate degree,Farmer,Urban,High,Cognitive impairment,84417,Weekly
+35,Nagpur,Female,1704981,Primary education,Engineer,Rural,Low,Cognitive impairment,72273,Monthly
+63,Lucknow,Female,941334,Postgraduate degree,Unemployed,Sub-urban,High,Visual impairment (Blind),83502,Monthly
+41,Indore,Female,738369,Postgraduate degree,Unemployed,Urban,Medium,Cognitive impairment,30648,Monthly
+77,Visakhapatnam,Male,1852124,Secondary education,Doctor,Urban,High,Cognitive impairment,70323,Weekly
+32,Patna,Male,746314,No formal education,Unemployed,Urban,High,Hearing impairment,28785,Weekly
+78,Pimpri-Chinchwad,Non-binary,1571387,Primary education,Technician,Sub-urban,Medium,Cognitive impairment,73039,Daily
+46,Pimpri-Chinchwad,Male,595150,No formal education,Artist,Sub-urban,Low,Visual impairment (Blind),14662,Weekly
+18,Kanpur,Male,832125,No formal education,Engineer,Sub-urban,Low,Visual impairment (Blind),46620,Weekly
+31,Hyderabad,Female,1387097,No formal education,Businessperson,Sub-urban,Low,Mobility impairment,98551,Weekly
+61,Surat,Non-binary,1747035,Primary education,Businessperson,Rural,Low,Visual impairment (Blind),15067,Daily
+74,Kolkata,Male,1329326,Undergraduate degree,Engineer,Rural,Medium,Mobility impairment,79069,Daily
+57,Bhopal,Female,1302228,No formal education,Student,Urban,Medium,Hearing impairment,43292,Weekly
+48,Kolkata,Non-binary,1779683,Undergraduate degree,Student,Urban,Low,Mobility impairment,90135,Weekly
+21,Kanpur,Non-binary,1603029,Secondary education,Farmer,Sub-urban,Low,Mobility impairment,51958,Monthly
+62,Surat,Male,1922971,Secondary education,Farmer,Urban,High,Cognitive impairment,91576,Daily
+47,Bhopal,Male,753211,No formal education,Unemployed,Rural,Low,Mobility impairment,5581,Weekly
+74,Hyderabad,Male,1482979,Secondary education,Teacher,Urban,Low,Hearing impairment,58049,Daily
+53,Pune,Non-binary,466867,Undergraduate degree,Doctor,Sub-urban,High,Hearing impairment,19135,Daily
+30,Patna,Non-binary,1914045,No formal education,Technician,Urban,Low,Mobility impairment,75608,Weekly
+51,Kolkata,Female,1525128,Secondary education,Businessperson,Sub-urban,Low,Speech impairment,35072,Weekly
+27,Nagpur,Male,1164792,Secondary education,Teacher,Sub-urban,Low,Mobility impairment,90593,Weekly
+59,Kanpur,Female,467247,Undergraduate degree,Student,Rural,Low,Speech impairment,60349,Daily
+28,Jaipur,Non-binary,1123810,Postgraduate degree,Engineer,Rural,High,Visual impairment (Blind),29933,Weekly
+68,Indore,Female,1440382,No formal education,Artist,Rural,Low,Mobility impairment,99295,Daily
+76,Surat,Non-binary,1149717,Primary education,Businessperson,Urban,Medium,Speech impairment,24303,Monthly
+73,Bhopal,Male,913378,Primary education,Businessperson,Rural,Medium,Mobility impairment,33196,Daily
+80,Vadodara,Female,195001,Postgraduate degree,Doctor,Urban,Low,Hearing impairment,19716,Weekly
+67,Bengaluru,Male,338836,No formal education,Businessperson,Rural,Low,Visual impairment (Blind),66924,Daily
+38,Mumbai,Non-binary,1764092,Secondary education,Businessperson,Urban,Low,Cognitive impairment,63785,Monthly
+30,Bengaluru,Male,843875,Primary education,Teacher,Sub-urban,High,Hearing impairment,40704,Daily
+37,Mumbai,Female,1297777,No formal education,Artist,Urban,Medium,Speech impairment,49233,Weekly
+18,Bengaluru,Non-binary,272397,Postgraduate degree,Teacher,Sub-urban,Medium,Visual impairment (Blind),79300,Daily
+19,Thane,Male,1850092,Secondary education,Student,Sub-urban,High,Mobility impairment,34181,Monthly
+46,Bhopal,Non-binary,590714,Postgraduate degree,Teacher,Rural,Medium,Hearing impairment,77240,Weekly
+79,Chennai,Female,252084,Undergraduate degree,Farmer,Rural,Medium,Speech impairment,39121,Weekly
+35,Patna,Non-binary,593973,Primary education,Technician,Rural,Medium,Mobility impairment,66657,Weekly
+18,Indore,Non-binary,595075,Undergraduate degree,Artist,Rural,Low,Speech impairment,24549,Daily
+39,Delhi,Male,220845,No formal education,Doctor,Sub-urban,Low,Visual impairment (Blind),6075,Monthly
+59,Mumbai,Male,206854,No formal education,Doctor,Rural,Low,Visual impairment (Blind),21393,Monthly
+68,Patna,Non-binary,1546256,Primary education,Student,Sub-urban,High,Mobility impairment,59545,Monthly
+79,Bengaluru,Male,1567726,No formal education,Teacher,Sub-urban,High,Mobility impairment,67434,Daily
+34,Vadodara,Non-binary,1015427,Secondary education,Student,Sub-urban,Medium,Hearing impairment,5418,Monthly
+49,Jaipur,Female,784515,Secondary education,Engineer,Rural,Low,Visual impairment (Blind),5124,Weekly
+31,Pimpri-Chinchwad,Male,1822037,Secondary education,Technician,Urban,Low,Speech impairment,75412,Weekly
+49,Lucknow,Male,463438,Postgraduate degree,Artist,Rural,Low,Hearing impairment,78418,Monthly
+64,Bengaluru,Female,516405,Undergraduate degree,Unemployed,Sub-urban,Medium,Mobility impairment,13787,Monthly
+20,Jaipur,Female,1286610,Postgraduate degree,Businessperson,Urban,Low,Visual impairment (Blind),53637,Daily
+48,Visakhapatnam,Non-binary,272378,Primary education,Technician,Sub-urban,Medium,Hearing impairment,66985,Weekly
+50,Ahmedabad,Male,243315,Postgraduate degree,Technician,Urban,Low,Hearing impairment,34751,Weekly
+33,Kolkata,Non-binary,367426,No formal education,Businessperson,Urban,Low,Visual impairment (Blind),49585,Monthly
+65,Thane,Non-binary,1325314,No formal education,Businessperson,Sub-urban,Medium,Visual impairment (Blind),34382,Daily
+20,Bengaluru,Non-binary,895979,Primary education,Engineer,Sub-urban,High,Cognitive impairment,84046,Monthly
+59,Chennai,Female,599315,Secondary education,Student,Urban,Medium,Mobility impairment,51977,Daily
+28,Mumbai,Non-binary,153300,Undergraduate degree,Artist,Rural,Medium,Hearing impairment,80703,Monthly
+64,Kolkata,Non-binary,578662,Postgraduate degree,Teacher,Rural,Low,Hearing impairment,85956,Weekly
+42,Kolkata,Male,1337360,Postgraduate degree,Student,Urban,Low,Speech impairment,93283,Monthly
+18,Jaipur,Female,629687,No formal education,Farmer,Urban,High,Mobility impairment,54466,Daily
+35,Nagpur,Non-binary,1251187,Primary education,Artist,Urban,Medium,Mobility impairment,75245,Daily
+67,Kanpur,Male,1919163,Secondary education,Artist,Rural,Low,Hearing impairment,87374,Monthly
+45,Indore,Male,1211132,No formal education,Artist,Urban,Medium,Cognitive impairment,52096,Monthly
+56,Thane,Female,1004413,Undergraduate degree,Teacher,Rural,Medium,Mobility impairment,5708,Weekly
+58,Hyderabad,Male,1356901,Undergraduate degree,Doctor,Sub-urban,High,Speech impairment,79020,Weekly
+73,Thane,Female,1966990,Primary education,Engineer,Rural,High,Visual impairment (Blind),31536,Weekly
+27,Chennai,Male,556560,Secondary education,Farmer,Rural,Low,Visual impairment (Blind),45409,Daily
+46,Bhopal,Non-binary,1474472,Undergraduate degree,Engineer,Rural,Medium,Speech impairment,94507,Daily
+25,Ahmedabad,Male,1923239,Secondary education,Businessperson,Sub-urban,Low,Visual impairment (Blind),89029,Monthly
+65,Ahmedabad,Female,502792,Secondary education,Doctor,Rural,Medium,Hearing impairment,77923,Monthly
+60,Bengaluru,Male,702831,Undergraduate degree,Unemployed,Sub-urban,Low,Hearing impairment,89835,Weekly
+76,Visakhapatnam,Male,1099630,Postgraduate degree,Technician,Rural,Low,Visual impairment (Blind),64730,Daily
+71,Lucknow,Non-binary,1497241,Postgraduate degree,Teacher,Sub-urban,Low,Cognitive impairment,75820,Daily
+77,Kanpur,Female,1770282,Secondary education,Doctor,Rural,Medium,Cognitive impairment,19288,Daily
+59,Chennai,Female,1656479,Postgraduate degree,Businessperson,Urban,Low,Mobility impairment,14492,Daily
+73,Vadodara,Female,1057154,Postgraduate degree,Farmer,Rural,High,Hearing impairment,82892,Monthly
+63,Delhi,Non-binary,1589152,Undergraduate degree,Student,Sub-urban,Low,Cognitive impairment,99938,Monthly
+22,Pimpri-Chinchwad,Female,1165384,Primary education,Technician,Rural,Medium,Mobility impairment,52249,Monthly
+53,Patna,Non-binary,641770,Secondary education,Unemployed,Urban,Medium,Speech impairment,44152,Monthly
+52,Hyderabad,Non-binary,1775142,Secondary education,Doctor,Urban,High,Visual impairment (Blind),83952,Monthly
+65,Bhopal,Male,565511,No formal education,Teacher,Urban,High,Cognitive impairment,96363,Monthly
+20,Vadodara,Male,772038,Secondary education,Businessperson,Urban,Medium,Mobility impairment,46592,Weekly
+57,Kanpur,Male,688161,No formal education,Farmer,Sub-urban,Low,Cognitive impairment,56732,Weekly
+74,Delhi,Non-binary,1185110,No formal education,Student,Urban,Medium,Cognitive impairment,8853,Monthly
+66,Thane,Female,1991092,Undergraduate degree,Doctor,Rural,Low,Cognitive impairment,54535,Weekly
+67,Mumbai,Non-binary,1928702,Primary education,Doctor,Rural,Low,Mobility impairment,70440,Weekly
+64,Kolkata,Male,1929376,Undergraduate degree,Farmer,Rural,Medium,Cognitive impairment,30715,Weekly
+25,Delhi,Male,726621,Secondary education,Unemployed,Urban,Low,Mobility impairment,74869,Weekly
+37,Patna,Male,1163306,Undergraduate degree,Unemployed,Rural,Low,Visual impairment (Blind),54887,Monthly
+23,Chennai,Male,1104150,Undergraduate degree,Unemployed,Rural,Low,Visual impairment (Blind),14031,Weekly
+63,Nagpur,Male,593142,Primary education,Unemployed,Sub-urban,Low,Visual impairment (Blind),62866,Monthly
+74,Vadodara,Male,677394,Primary education,Teacher,Urban,Low,Visual impairment (Blind),20968,Weekly
+22,Vadodara,Female,1392793,Undergraduate degree,Artist,Sub-urban,Low,Speech impairment,31651,Weekly
+18,Surat,Female,365639,Undergraduate degree,Technician,Rural,High,Cognitive impairment,71363,Weekly
+23,Patna,Non-binary,532448,Secondary education,Engineer,Rural,High,Visual impairment (Blind),17521,Monthly
+25,Mumbai,Male,770912,No formal education,Technician,Sub-urban,High,Hearing impairment,41814,Monthly
+44,Vadodara,Non-binary,469872,Postgraduate degree,Student,Urban,Low,Cognitive impairment,52680,Monthly
+43,Bhopal,Female,1129653,Postgraduate degree,Technician,Urban,Medium,Visual impairment (Blind),28701,Weekly
+77,Nagpur,Non-binary,390076,Primary education,Student,Rural,Low,Hearing impairment,44528,Monthly
+32,Kanpur,Female,1109399,Postgraduate degree,Doctor,Rural,Low,Visual impairment (Blind),29557,Monthly
+33,Mumbai,Female,1016728,Postgraduate degree,Teacher,Urban,Low,Visual impairment (Blind),41183,Weekly
+70,Visakhapatnam,Male,1982345,Secondary education,Artist,Urban,Medium,Mobility impairment,11436,Monthly
+57,Bengaluru,Non-binary,1567916,Undergraduate degree,Artist,Sub-urban,Low,Hearing impairment,10331,Monthly
+61,Bengaluru,Male,729901,Secondary education,Unemployed,Urban,Medium,Mobility impairment,9035,Monthly
+77,Hyderabad,Female,242554,Undergraduate degree,Engineer,Urban,Medium,Hearing impairment,36520,Daily
+21,Nagpur,Non-binary,1603489,Postgraduate degree,Engineer,Urban,High,Cognitive impairment,99344,Daily
+43,Lucknow,Male,1061387,Postgraduate degree,Businessperson,Rural,Low,Cognitive impairment,35186,Daily
+51,Chennai,Female,1483252,No formal education,Unemployed,Rural,Medium,Visual impairment (Blind),50054,Daily
+72,Kolkata,Non-binary,1680202,Secondary education,Farmer,Rural,Medium,Hearing impairment,84496,Monthly
+68,Chennai,Male,1475400,Undergraduate degree,Student,Sub-urban,Low,Cognitive impairment,29289,Monthly
+66,Jaipur,Male,1756264,Undergraduate degree,Farmer,Urban,Medium,Visual impairment (Blind),39752,Weekly
+62,Bengaluru,Female,1480406,Postgraduate degree,Businessperson,Sub-urban,High,Mobility impairment,86449,Daily
+55,Bhopal,Female,753718,Postgraduate degree,Teacher,Urban,High,Visual impairment (Blind),15098,Daily
+30,Hyderabad,Female,227548,Primary education,Unemployed,Rural,High,Visual impairment (Blind),94113,Monthly
+20,Bhopal,Non-binary,1396823,Secondary education,Artist,Sub-urban,Medium,Speech impairment,53357,Weekly
+67,Pimpri-Chinchwad,Non-binary,1687415,Undergraduate degree,Farmer,Rural,Medium,Mobility impairment,83711,Weekly
+56,Hyderabad,Male,525961,Primary education,Technician,Urban,Medium,Hearing impairment,25008,Monthly
+79,Patna,Female,535488,Secondary education,Student,Sub-urban,Low,Cognitive impairment,99540,Weekly
+63,Kanpur,Male,802106,No formal education,Farmer,Urban,High,Visual impairment (Blind),28800,Daily
+77,Mumbai,Male,1955406,Undergraduate degree,Teacher,Sub-urban,Low,Cognitive impairment,93757,Weekly
+58,Indore,Female,465512,Postgraduate degree,Businessperson,Urban,High,Mobility impairment,47243,Monthly
+77,Surat,Male,1776568,No formal education,Businessperson,Rural,High,Hearing impairment,42892,Monthly
+39,Bengaluru,Male,713371,No formal education,Unemployed,Urban,Medium,Cognitive impairment,94453,Daily
+25,Vadodara,Male,1296920,Primary education,Businessperson,Sub-urban,High,Speech impairment,51240,Weekly
+28,Delhi,Male,1329414,Undergraduate degree,Student,Rural,Medium,Speech impairment,80943,Monthly
+49,Lucknow,Non-binary,1816125,Undergraduate degree,Unemployed,Rural,Low,Mobility impairment,43358,Monthly
+24,Kolkata,Male,306651,Primary education,Businessperson,Urban,Medium,Visual impairment (Blind),60258,Daily
+29,Pune,Non-binary,218235,Secondary education,Artist,Sub-urban,Medium,Speech impairment,20516,Monthly
+51,Delhi,Female,803574,Primary education,Teacher,Sub-urban,Low,Hearing impairment,8490,Monthly
+66,Delhi,Female,1702937,Primary education,Unemployed,Rural,Low,Visual impairment (Blind),64087,Weekly
+34,Jaipur,Non-binary,1949555,Primary education,Teacher,Urban,High,Cognitive impairment,25456,Daily
+56,Indore,Male,1007139,Primary education,Artist,Rural,Medium,Hearing impairment,50004,Weekly
+53,Vadodara,Female,318867,No formal education,Farmer,Rural,Low,Hearing impairment,72912,Monthly
+61,Pimpri-Chinchwad,Male,308897,No formal education,Artist,Rural,Low,Cognitive impairment,44071,Monthly
+60,Chennai,Male,1618541,Undergraduate degree,Businessperson,Sub-urban,Medium,Visual impairment (Blind),99554,Daily
+54,Kolkata,Female,394362,Postgraduate degree,Doctor,Sub-urban,Medium,Visual impairment (Blind),17716,Daily
+50,Visakhapatnam,Female,1557125,Postgraduate degree,Engineer,Urban,Medium,Speech impairment,17951,Daily
+53,Thane,Non-binary,1429144,Secondary education,Technician,Rural,Medium,Visual impairment (Blind),94145,Daily
+74,Hyderabad,Female,1785211,Postgraduate degree,Teacher,Urban,Low,Mobility impairment,64294,Daily
+48,Bengaluru,Female,377717,Undergraduate degree,Teacher,Rural,Low,Visual impairment (Blind),50792,Weekly
+42,Bhopal,Non-binary,730845,Secondary education,Artist,Sub-urban,Medium,Visual impairment (Blind),18673,Weekly
+72,Hyderabad,Male,526909,No formal education,Unemployed,Urban,Low,Speech impairment,15453,Daily
+70,Kanpur,Male,354980,No formal education,Unemployed,Rural,Medium,Cognitive impairment,77074,Monthly
+75,Patna,Non-binary,1563794,Primary education,Technician,Rural,Medium,Speech impairment,91379,Daily
+23,Pune,Non-binary,850384,Postgraduate degree,Teacher,Sub-urban,Medium,Visual impairment (Blind),57385,Monthly
+42,Kanpur,Female,978899,Secondary education,Engineer,Urban,Low,Mobility impairment,45924,Monthly
+27,Patna,Male,684403,Primary education,Businessperson,Rural,Medium,Visual impairment (Blind),53906,Weekly
+48,Ahmedabad,Male,370271,Primary education,Teacher,Urban,Low,Hearing impairment,15869,Monthly
+68,Mumbai,Male,735476,Undergraduate degree,Technician,Sub-urban,High,Visual impairment (Blind),24635,Weekly
+67,Kolkata,Female,1426354,Postgraduate degree,Artist,Sub-urban,High,Mobility impairment,54803,Monthly
+61,Delhi,Female,822895,Postgraduate degree,Student,Rural,Medium,Cognitive impairment,6089,Weekly
+38,Chennai,Male,897034,Undergraduate degree,Doctor,Urban,Low,Mobility impairment,48786,Weekly
+38,Chennai,Non-binary,1505498,Undergraduate degree,Artist,Urban,High,Visual impairment (Blind),7716,Daily
+21,Pimpri-Chinchwad,Non-binary,721920,Postgraduate degree,Engineer,Rural,Low,Cognitive impairment,49878,Weekly
+63,Kanpur,Male,1928641,Primary education,Unemployed,Sub-urban,Medium,Speech impairment,75602,Monthly
+45,Chennai,Non-binary,756268,No formal education,Engineer,Sub-urban,High,Hearing impairment,92250,Monthly
+62,Bengaluru,Male,1439810,Undergraduate degree,Businessperson,Rural,Low,Visual impairment (Blind),32558,Monthly
+78,Kolkata,Non-binary,1727520,Postgraduate degree,Artist,Urban,High,Cognitive impairment,87699,Weekly
+75,Ahmedabad,Female,347075,Postgraduate degree,Businessperson,Sub-urban,Low,Cognitive impairment,38685,Monthly
+70,Jaipur,Non-binary,1653221,Secondary education,Technician,Rural,Low,Mobility impairment,57259,Daily
+74,Nagpur,Male,1232919,Secondary education,Student,Sub-urban,Low,Hearing impairment,83565,Daily
+43,Pimpri-Chinchwad,Non-binary,123963,Primary education,Technician,Rural,Medium,Visual impairment (Blind),9091,Monthly
+79,Patna,Male,1245512,Primary education,Unemployed,Sub-urban,Low,Hearing impairment,55737,Monthly
+36,Kanpur,Non-binary,260070,Secondary education,Teacher,Urban,Medium,Hearing impairment,43703,Daily
+62,Nagpur,Male,332771,No formal education,Teacher,Rural,Medium,Visual impairment (Blind),40859,Daily
+18,Surat,Male,1859362,Secondary education,Teacher,Urban,High,Cognitive impairment,71640,Monthly
+44,Jaipur,Male,1476462,Undergraduate degree,Technician,Rural,Medium,Mobility impairment,45268,Monthly
+30,Thane,Female,1590582,Undergraduate degree,Teacher,Sub-urban,Low,Mobility impairment,52220,Monthly
+57,Jaipur,Non-binary,380051,Postgraduate degree,Unemployed,Sub-urban,Medium,Speech impairment,46168,Weekly
+32,Nagpur,Female,1976567,Postgraduate degree,Technician,Urban,Medium,Mobility impairment,83630,Monthly
+30,Jaipur,Male,1971683,Secondary education,Technician,Urban,Medium,Hearing impairment,99973,Monthly
+18,Kolkata,Male,1366687,Undergraduate degree,Teacher,Sub-urban,Low,Cognitive impairment,75469,Daily
+53,Jaipur,Male,1497741,Secondary education,Technician,Urban,High,Visual impairment (Blind),62765,Monthly
+29,Pune,Male,1242525,Undergraduate degree,Doctor,Rural,Medium,Speech impairment,33644,Monthly
+75,Hyderabad,Male,936963,Secondary education,Student,Sub-urban,High,Cognitive impairment,71649,Daily
+66,Hyderabad,Female,364124,Undergraduate degree,Businessperson,Rural,Low,Speech impairment,83193,Monthly
+64,Bhopal,Male,1954800,No formal education,Engineer,Urban,Low,Hearing impairment,13537,Daily
+70,Pune,Female,1534279,Undergraduate degree,Doctor,Urban,Low,Speech impairment,14158,Monthly
+40,Pune,Non-binary,1591977,Secondary education,Student,Urban,High,Speech impairment,44586,Daily
+21,Chennai,Male,1033062,Postgraduate degree,Artist,Sub-urban,Medium,Speech impairment,72242,Weekly
+42,Ahmedabad,Male,1455556,No formal education,Businessperson,Urban,Low,Hearing impairment,17049,Monthly
+37,Jaipur,Male,1099054,Undergraduate degree,Doctor,Sub-urban,Medium,Visual impairment (Blind),36299,Monthly
+55,Mumbai,Female,627209,Undergraduate degree,Student,Urban,Medium,Hearing impairment,45416,Weekly
+79,Chennai,Male,640907,Secondary education,Doctor,Rural,Medium,Speech impairment,48293,Daily
+21,Pune,Non-binary,1182059,No formal education,Unemployed,Urban,Low,Speech impairment,49130,Weekly
+55,Thane,Non-binary,1089438,Undergraduate degree,Unemployed,Sub-urban,High,Visual impairment (Blind),88668,Weekly
+42,Chennai,Non-binary,1390924,No formal education,Teacher,Sub-urban,Low,Mobility impairment,28445,Daily
+47,Patna,Non-binary,1704304,Secondary education,Unemployed,Urban,Low,Visual impairment (Blind),63982,Monthly
+36,Hyderabad,Non-binary,1323882,Secondary education,Engineer,Urban,Low,Hearing impairment,84098,Monthly
+69,Chennai,Female,1404762,Postgraduate degree,Farmer,Rural,High,Cognitive impairment,49994,Weekly
+71,Bhopal,Female,332551,Undergraduate degree,Farmer,Sub-urban,Low,Hearing impairment,49750,Daily
+35,Hyderabad,Non-binary,1297967,Primary education,Teacher,Rural,Medium,Cognitive impairment,85922,Daily
+18,Patna,Non-binary,1136808,Secondary education,Student,Urban,Medium,Hearing impairment,36324,Monthly
+52,Visakhapatnam,Female,1117553,Secondary education,Farmer,Sub-urban,High,Speech impairment,33845,Monthly
+69,Ahmedabad,Male,1907524,No formal education,Teacher,Sub-urban,Medium,Mobility impairment,6419,Weekly
+63,Jaipur,Male,1308121,Secondary education,Engineer,Urban,Low,Hearing impairment,63927,Weekly
+71,Delhi,Male,1930446,Secondary education,Student,Urban,High,Mobility impairment,62521,Weekly
+41,Chennai,Non-binary,1545100,Postgraduate degree,Engineer,Sub-urban,High,Cognitive impairment,41908,Weekly
+74,Pimpri-Chinchwad,Non-binary,865404,No formal education,Teacher,Sub-urban,Medium,Visual impairment (Blind),52495,Daily
+28,Thane,Non-binary,839111,Secondary education,Businessperson,Urban,High,Mobility impairment,82907,Daily
+38,Chennai,Non-binary,1842361,Secondary education,Engineer,Sub-urban,Low,Hearing impairment,27191,Weekly
+80,Indore,Male,789718,Undergraduate degree,Technician,Rural,Low,Hearing impairment,39043,Monthly
+51,Lucknow,Female,932652,Secondary education,Farmer,Sub-urban,Medium,Hearing impairment,5003,Weekly
+36,Patna,Female,334756,Undergraduate degree,Unemployed,Sub-urban,Medium,Visual impairment (Blind),34365,Monthly
+49,Nagpur,Female,622898,Primary education,Teacher,Urban,Low,Speech impairment,96656,Monthly
+44,Indore,Non-binary,165239,Secondary education,Unemployed,Urban,Low,Speech impairment,6925,Daily
+60,Chennai,Male,725012,No formal education,Engineer,Sub-urban,Low,Hearing impairment,87937,Weekly
+54,Vadodara,Female,202509,Undergraduate degree,Farmer,Rural,High,Visual impairment (Blind),9912,Monthly
+70,Jaipur,Male,180652,Secondary education,Businessperson,Sub-urban,Low,Hearing impairment,92430,Weekly
+67,Kolkata,Non-binary,651941,No formal education,Artist,Urban,Low,Mobility impairment,71427,Monthly
+62,Lucknow,Male,165898,No formal education,Engineer,Sub-urban,Medium,Mobility impairment,8439,Monthly
+79,Surat,Non-binary,1529749,Primary education,Engineer,Sub-urban,Low,Cognitive impairment,79430,Daily
+26,Jaipur,Non-binary,1845307,No formal education,Farmer,Sub-urban,High,Hearing impairment,72810,Monthly
+28,Lucknow,Male,456108,Undergraduate degree,Doctor,Urban,High,Mobility impairment,24023,Monthly
+55,Hyderabad,Non-binary,1364078,No formal education,Artist,Urban,Low,Mobility impairment,35237,Weekly
+43,Delhi,Non-binary,1523462,Undergraduate degree,Businessperson,Sub-urban,Low,Speech impairment,24233,Weekly
+80,Kanpur,Male,1846709,Primary education,Doctor,Urban,Medium,Cognitive impairment,8302,Daily
+65,Indore,Non-binary,508713,Undergraduate degree,Unemployed,Urban,Medium,Cognitive impairment,67044,Weekly
+19,Pimpri-Chinchwad,Non-binary,633895,No formal education,Doctor,Rural,Low,Speech impairment,57381,Monthly
+73,Kanpur,Non-binary,1625946,Postgraduate degree,Student,Urban,Low,Visual impairment (Blind),81638,Weekly
+73,Bengaluru,Female,1122137,Primary education,Businessperson,Urban,High,Mobility impairment,8043,Weekly
+52,Ahmedabad,Non-binary,1882456,Postgraduate degree,Engineer,Urban,Medium,Mobility impairment,64163,Weekly
+61,Bengaluru,Female,975797,Secondary education,Student,Urban,Low,Mobility impairment,55945,Weekly
+56,Bengaluru,Male,383718,No formal education,Student,Urban,Medium,Mobility impairment,12538,Weekly
+39,Ahmedabad,Female,1900423,No formal education,Teacher,Sub-urban,Medium,Hearing impairment,5757,Monthly
+28,Kanpur,Female,1419860,Primary education,Student,Rural,High,Cognitive impairment,55060,Daily
+40,Bengaluru,Female,1188094,No formal education,Doctor,Urban,Low,Speech impairment,55510,Daily
+56,Pimpri-Chinchwad,Non-binary,1797651,Primary education,Student,Rural,Low,Mobility impairment,57229,Daily
+46,Mumbai,Non-binary,1286089,No formal education,Farmer,Rural,High,Hearing impairment,18754,Weekly
+54,Pune,Non-binary,1051813,Primary education,Doctor,Rural,Low,Speech impairment,10797,Weekly
+26,Pimpri-Chinchwad,Female,1674325,Undergraduate degree,Engineer,Urban,High,Visual impairment (Blind),67171,Monthly
+25,Jaipur,Female,1834088,Undergraduate degree,Teacher,Urban,Low,Hearing impairment,99967,Monthly
+79,Bengaluru,Female,948259,Secondary education,Teacher,Sub-urban,High,Visual impairment (Blind),34886,Monthly
+59,Vadodara,Non-binary,1708500,Primary education,Engineer,Urban,Low,Mobility impairment,27853,Monthly
+31,Delhi,Female,1406686,Primary education,Unemployed,Urban,Low,Visual impairment (Blind),52818,Daily
+72,Mumbai,Female,1529881,Primary education,Technician,Sub-urban,High,Hearing impairment,8839,Daily
+43,Bhopal,Male,1800177,Secondary education,Student,Urban,Low,Cognitive impairment,36661,Daily
+24,Pune,Non-binary,1008111,No formal education,Doctor,Rural,Medium,Visual impairment (Blind),25949,Monthly
+44,Vadodara,Female,1741147,Secondary education,Unemployed,Sub-urban,Medium,Cognitive impairment,61953,Weekly
+60,Hyderabad,Non-binary,1210457,Postgraduate degree,Businessperson,Urban,Medium,Hearing impairment,76890,Daily
+35,Bhopal,Female,1559798,Secondary education,Farmer,Sub-urban,High,Visual impairment (Blind),96911,Daily
+40,Surat,Male,1863383,Secondary education,Businessperson,Rural,Medium,Mobility impairment,69137,Monthly
+61,Pune,Female,1987113,No formal education,Unemployed,Rural,Medium,Speech impairment,56622,Monthly
+49,Indore,Female,1830808,No formal education,Unemployed,Rural,High,Visual impairment (Blind),55312,Monthly
+63,Chennai,Male,892851,Secondary education,Doctor,Urban,High,Cognitive impairment,89455,Monthly
+65,Delhi,Female,627032,Undergraduate degree,Unemployed,Sub-urban,Low,Visual impairment (Blind),66807,Daily
+69,Mumbai,Female,1415014,Primary education,Unemployed,Sub-urban,High,Visual impairment (Blind),52127,Daily
+38,Kolkata,Non-binary,1583131,Undergraduate degree,Artist,Urban,Medium,Cognitive impairment,31505,Monthly
+64,Patna,Female,1700242,Primary education,Businessperson,Rural,Low,Cognitive impairment,68001,Daily
+49,Lucknow,Female,1626436,No formal education,Technician,Sub-urban,High,Hearing impairment,71849,Daily
+34,Thane,Male,1888540,Secondary education,Technician,Sub-urban,Low,Cognitive impairment,50872,Weekly
+42,Mumbai,Female,1870166,Primary education,Businessperson,Sub-urban,High,Mobility impairment,8836,Weekly
+60,Bhopal,Male,1435490,Postgraduate degree,Engineer,Rural,High,Mobility impairment,34105,Weekly
+36,Chennai,Female,1626868,No formal education,Businessperson,Urban,Low,Speech impairment,47127,Weekly
+55,Bhopal,Non-binary,1941910,No formal education,Unemployed,Rural,Medium,Speech impairment,74157,Daily
+27,Visakhapatnam,Female,869464,No formal education,Engineer,Sub-urban,High,Visual impairment (Blind),81810,Monthly
+42,Mumbai,Female,774068,Undergraduate degree,Teacher,Sub-urban,Low,Speech impairment,13450,Monthly
+22,Vadodara,Non-binary,1695825,Secondary education,Technician,Rural,Low,Hearing impairment,30217,Monthly
+79,Bengaluru,Non-binary,627190,Secondary education,Businessperson,Sub-urban,Low,Visual impairment (Blind),26263,Weekly
+33,Mumbai,Non-binary,1280749,No formal education,Farmer,Urban,Low,Speech impairment,14634,Weekly
+80,Pimpri-Chinchwad,Male,225253,Postgraduate degree,Businessperson,Urban,Medium,Hearing impairment,70669,Daily
+72,Indore,Female,714580,Primary education,Farmer,Sub-urban,Low,Mobility impairment,83013,Weekly
+55,Pune,Female,1773911,No formal education,Doctor,Sub-urban,Medium,Speech impairment,54378,Daily
+35,Chennai,Non-binary,125471,Undergraduate degree,Unemployed,Sub-urban,Low,Hearing impairment,6691,Weekly
+39,Vadodara,Female,646254,No formal education,Student,Rural,Low,Speech impairment,29415,Monthly
+19,Kanpur,Male,1878197,Primary education,Teacher,Rural,High,Visual impairment (Blind),53120,Daily
+49,Indore,Female,1220746,Postgraduate degree,Artist,Sub-urban,Medium,Hearing impairment,39550,Monthly
+24,Hyderabad,Non-binary,1467497,No formal education,Artist,Sub-urban,Low,Hearing impairment,71936,Monthly
+78,Hyderabad,Female,1678270,Undergraduate degree,Doctor,Sub-urban,Medium,Hearing impairment,28440,Monthly
+74,Kolkata,Non-binary,177904,Secondary education,Businessperson,Rural,Low,Cognitive impairment,35528,Weekly
+79,Thane,Male,1196105,Postgraduate degree,Technician,Urban,Low,Cognitive impairment,43868,Daily
+69,Pimpri-Chinchwad,Male,1047303,Postgraduate degree,Unemployed,Urban,Low,Hearing impairment,48758,Daily
+76,Lucknow,Male,917458,Primary education,Farmer,Rural,High,Hearing impairment,77306,Weekly
+72,Visakhapatnam,Non-binary,1966309,Primary education,Artist,Urban,High,Visual impairment (Blind),26712,Monthly
+62,Mumbai,Female,1507209,Undergraduate degree,Student,Rural,High,Visual impairment (Blind),79126,Daily
+42,Surat,Male,289501,Primary education,Unemployed,Sub-urban,Low,Visual impairment (Blind),18813,Weekly
+18,Indore,Non-binary,286312,Primary education,Businessperson,Sub-urban,Low,Cognitive impairment,88801,Weekly
+68,Pimpri-Chinchwad,Male,263907,Primary education,Businessperson,Urban,Low,Cognitive impairment,85046,Daily
+58,Kolkata,Non-binary,383866,Primary education,Technician,Sub-urban,High,Visual impairment (Blind),54070,Monthly
+54,Bengaluru,Female,1718654,Undergraduate degree,Student,Rural,High,Mobility impairment,37626,Daily
+69,Patna,Female,603912,Undergraduate degree,Technician,Urban,Low,Mobility impairment,13164,Weekly
+51,Bhopal,Non-binary,1455444,Undergraduate degree,Doctor,Sub-urban,High,Mobility impairment,41233,Weekly
+37,Chennai,Non-binary,403104,Secondary education,Technician,Urban,Low,Speech impairment,48021,Monthly
+71,Hyderabad,Non-binary,1303864,Primary education,Doctor,Rural,Low,Speech impairment,45479,Weekly
+49,Surat,Female,511838,Primary education,Teacher,Sub-urban,High,Hearing impairment,89425,Monthly
+27,Vadodara,Male,112238,Undergraduate degree,Unemployed,Urban,Low,Mobility impairment,85496,Monthly
+29,Bhopal,Female,333057,Primary education,Unemployed,Rural,High,Speech impairment,15046,Weekly
+58,Ahmedabad,Male,1341548,Secondary education,Unemployed,Urban,Medium,Hearing impairment,35479,Daily
+50,Pimpri-Chinchwad,Non-binary,1249726,Secondary education,Engineer,Sub-urban,Medium,Cognitive impairment,48108,Weekly
+69,Chennai,Female,626713,No formal education,Engineer,Rural,High,Speech impairment,41508,Weekly
+34,Kanpur,Non-binary,1715291,Secondary education,Teacher,Rural,Low,Visual impairment (Blind),74530,Weekly
+43,Indore,Female,768959,Undergraduate degree,Businessperson,Sub-urban,Medium,Visual impairment (Blind),13118,Monthly
+76,Mumbai,Male,1096893,Primary education,Businessperson,Sub-urban,High,Mobility impairment,45397,Monthly
+25,Vadodara,Female,1117549,Primary education,Doctor,Rural,Low,Visual impairment (Blind),86163,Daily
+28,Patna,Male,1752777,Undergraduate degree,Technician,Rural,Medium,Cognitive impairment,86754,Monthly
+73,Nagpur,Female,1336185,Undergraduate degree,Businessperson,Sub-urban,High,Speech impairment,29048,Monthly
+43,Pune,Male,1357209,Secondary education,Engineer,Rural,Low,Hearing impairment,35004,Daily
+51,Chennai,Non-binary,1175192,Undergraduate degree,Engineer,Urban,High,Speech impairment,11282,Monthly
+58,Hyderabad,Male,204517,Primary education,Technician,Rural,Low,Hearing impairment,84374,Monthly
+26,Bengaluru,Female,1415302,Undergraduate degree,Artist,Sub-urban,Medium,Mobility impairment,73316,Weekly
+80,Bhopal,Non-binary,885972,Primary education,Artist,Sub-urban,Low,Mobility impairment,44289,Weekly
+47,Pimpri-Chinchwad,Non-binary,807343,Undergraduate degree,Student,Sub-urban,High,Mobility impairment,95693,Monthly
+33,Indore,Female,901531,Postgraduate degree,Teacher,Urban,Low,Visual impairment (Blind),60127,Daily
+61,Indore,Male,644826,Postgraduate degree,Doctor,Rural,Medium,Mobility impairment,91406,Monthly
+60,Mumbai,Non-binary,1266087,Primary education,Farmer,Urban,High,Mobility impairment,76218,Daily
+61,Visakhapatnam,Male,1233938,Primary education,Doctor,Rural,High,Hearing impairment,91578,Weekly
+54,Hyderabad,Female,731255,Secondary education,Businessperson,Urban,High,Visual impairment (Blind),7305,Weekly
+51,Patna,Non-binary,1100187,Postgraduate degree,Technician,Urban,Medium,Cognitive impairment,89216,Monthly
+42,Pune,Female,692964,No formal education,Technician,Urban,Low,Hearing impairment,41108,Weekly
+20,Vadodara,Non-binary,1564454,Undergraduate degree,Artist,Urban,Low,Speech impairment,84513,Daily
+80,Hyderabad,Non-binary,1922661,Undergraduate degree,Student,Rural,Medium,Hearing impairment,82267,Monthly
+63,Lucknow,Non-binary,1655114,Secondary education,Artist,Sub-urban,Medium,Speech impairment,82295,Monthly
+21,Surat,Female,1307996,Postgraduate degree,Engineer,Sub-urban,Medium,Hearing impairment,52018,Weekly
+69,Jaipur,Non-binary,920879,Secondary education,Engineer,Urban,High,Hearing impairment,66817,Daily
+27,Bengaluru,Female,754634,Postgraduate degree,Engineer,Urban,Low,Hearing impairment,46683,Daily
+48,Hyderabad,Female,657624,Primary education,Artist,Urban,Low,Visual impairment (Blind),6144,Weekly
+44,Nagpur,Female,344608,Undergraduate degree,Unemployed,Urban,Low,Hearing impairment,51154,Monthly
+66,Indore,Male,1370392,Secondary education,Artist,Sub-urban,Medium,Visual impairment (Blind),40603,Daily
+42,Thane,Male,1529181,Primary education,Doctor,Sub-urban,Low,Speech impairment,82907,Weekly
+26,Chennai,Female,1357580,Undergraduate degree,Businessperson,Urban,High,Visual impairment (Blind),81188,Monthly
+59,Thane,Male,808985,Primary education,Doctor,Urban,Medium,Mobility impairment,21245,Weekly
+72,Pimpri-Chinchwad,Non-binary,218287,Primary education,Farmer,Sub-urban,High,Mobility impairment,31307,Daily
+80,Mumbai,Male,969212,Postgraduate degree,Artist,Urban,Medium,Visual impairment (Blind),17292,Daily
+49,Hyderabad,Female,1498755,Undergraduate degree,Artist,Urban,High,Hearing impairment,83278,Weekly
+63,Hyderabad,Female,286403,Primary education,Student,Urban,Low,Speech impairment,46433,Daily
+39,Pune,Female,553799,Postgraduate degree,Businessperson,Urban,High,Cognitive impairment,21514,Daily
+32,Mumbai,Male,1294195,Postgraduate degree,Technician,Sub-urban,Medium,Speech impairment,82368,Weekly
+33,Chennai,Male,1834247,Secondary education,Farmer,Urban,High,Hearing impairment,79062,Monthly
+58,Pune,Non-binary,174968,No formal education,Farmer,Urban,Medium,Cognitive impairment,76327,Weekly
+73,Jaipur,Female,1732591,Secondary education,Farmer,Urban,Low,Mobility impairment,48443,Monthly
+40,Bengaluru,Male,1781860,Primary education,Farmer,Sub-urban,Medium,Mobility impairment,49261,Monthly
+66,Kanpur,Male,268927,Postgraduate degree,Businessperson,Urban,Medium,Cognitive impairment,85264,Monthly
+50,Kanpur,Female,731241,Undergraduate degree,Engineer,Rural,Medium,Visual impairment (Blind),52257,Daily
+27,Lucknow,Male,396483,Postgraduate degree,Teacher,Rural,Medium,Cognitive impairment,25480,Daily
+28,Hyderabad,Male,1712935,Primary education,Businessperson,Sub-urban,High,Mobility impairment,98762,Monthly
+72,Hyderabad,Male,864165,Postgraduate degree,Student,Rural,Low,Speech impairment,23016,Daily
+38,Delhi,Female,800567,Secondary education,Businessperson,Rural,Low,Speech impairment,66645,Monthly
+73,Bhopal,Male,967602,No formal education,Businessperson,Urban,High,Speech impairment,94020,Monthly
+48,Patna,Male,1504549,Postgraduate degree,Engineer,Sub-urban,High,Visual impairment (Blind),31854,Monthly
+57,Mumbai,Female,826653,Primary education,Doctor,Urban,High,Visual impairment (Blind),8211,Daily
+71,Thane,Non-binary,444614,No formal education,Doctor,Sub-urban,High,Speech impairment,68897,Daily
+43,Vadodara,Non-binary,820503,Primary education,Businessperson,Rural,Medium,Visual impairment (Blind),65572,Monthly
+60,Kolkata,Male,1563235,Undergraduate degree,Businessperson,Sub-urban,High,Hearing impairment,78763,Weekly
+48,Hyderabad,Female,1932034,No formal education,Farmer,Rural,Medium,Visual impairment (Blind),74827,Weekly
+65,Bengaluru,Male,232947,Postgraduate degree,Technician,Sub-urban,Medium,Speech impairment,5443,Weekly
+59,Pune,Male,1748180,Secondary education,Student,Urban,High,Hearing impairment,85728,Monthly
+33,Pune,Non-binary,479193,Undergraduate degree,Engineer,Sub-urban,Low,Mobility impairment,83593,Monthly
+22,Kolkata,Non-binary,279883,Postgraduate degree,Artist,Urban,Medium,Cognitive impairment,43969,Daily
+70,Pune,Female,800993,No formal education,Doctor,Rural,Low,Hearing impairment,27035,Daily
+60,Pune,Female,104752,Primary education,Businessperson,Rural,Medium,Mobility impairment,72591,Daily
+58,Ahmedabad,Female,1024336,Postgraduate degree,Businessperson,Urban,High,Mobility impairment,78079,Monthly
+47,Kanpur,Male,1394334,Postgraduate degree,Businessperson,Urban,High,Visual impairment (Blind),65285,Monthly
+44,Hyderabad,Female,489873,No formal education,Doctor,Urban,Medium,Hearing impairment,27758,Weekly
+30,Nagpur,Non-binary,1809274,Secondary education,Doctor,Rural,Medium,Hearing impairment,97374,Daily
+71,Nagpur,Male,1194079,Primary education,Unemployed,Rural,Medium,Visual impairment (Blind),30824,Weekly
+23,Jaipur,Non-binary,1705044,Primary education,Doctor,Urban,High,Hearing impairment,65982,Weekly
+61,Pimpri-Chinchwad,Male,1885054,No formal education,Artist,Sub-urban,High,Hearing impairment,30716,Weekly
+64,Delhi,Female,990037,No formal education,Farmer,Rural,Medium,Speech impairment,12448,Daily
+70,Patna,Female,1797114,Secondary education,Unemployed,Sub-urban,Medium,Speech impairment,21546,Monthly
+27,Vadodara,Male,1695448,Postgraduate degree,Teacher,Urban,High,Hearing impairment,71112,Monthly
+58,Pune,Male,1406373,Undergraduate degree,Farmer,Rural,Medium,Mobility impairment,15750,Weekly
+26,Thane,Non-binary,990309,Secondary education,Engineer,Rural,Medium,Visual impairment (Blind),76455,Weekly
+62,Pimpri-Chinchwad,Non-binary,1847436,Postgraduate degree,Farmer,Sub-urban,Medium,Speech impairment,97216,Monthly
+65,Thane,Non-binary,911361,Secondary education,Unemployed,Rural,High,Speech impairment,87773,Daily
+35,Hyderabad,Non-binary,288384,Primary education,Artist,Rural,High,Cognitive impairment,83472,Monthly
+49,Mumbai,Male,1781650,Postgraduate degree,Artist,Rural,High,Visual impairment (Blind),78613,Weekly
+80,Thane,Male,901517,Postgraduate degree,Artist,Rural,Medium,Visual impairment (Blind),80478,Weekly
+68,Thane,Male,1179639,Postgraduate degree,Unemployed,Urban,Medium,Mobility impairment,36273,Weekly
+59,Kolkata,Female,1305733,Undergraduate degree,Engineer,Sub-urban,Low,Speech impairment,96190,Weekly
+54,Surat,Male,1906095,Primary education,Technician,Urban,Medium,Mobility impairment,88104,Weekly
+37,Chennai,Male,1683844,No formal education,Farmer,Urban,Low,Mobility impairment,49535,Monthly
+50,Vadodara,Male,1789801,Secondary education,Student,Sub-urban,High,Mobility impairment,75848,Daily
+36,Thane,Female,1797726,Primary education,Artist,Urban,High,Visual impairment (Blind),10261,Monthly
+59,Mumbai,Female,1476512,Undergraduate degree,Unemployed,Rural,Medium,Hearing impairment,58826,Monthly
+45,Patna,Female,243137,Undergraduate degree,Technician,Urban,High,Hearing impairment,66204,Daily
+38,Nagpur,Non-binary,635849,Undergraduate degree,Businessperson,Rural,Medium,Mobility impairment,47539,Daily
+45,Indore,Female,1966376,Secondary education,Unemployed,Rural,Low,Hearing impairment,92237,Monthly
+60,Ahmedabad,Male,683109,Secondary education,Farmer,Sub-urban,High,Visual impairment (Blind),66531,Weekly
+56,Bengaluru,Male,549275,Secondary education,Doctor,Sub-urban,High,Speech impairment,73504,Daily
+24,Hyderabad,Male,825544,Undergraduate degree,Artist,Rural,Low,Visual impairment (Blind),27807,Daily
+71,Chennai,Female,1489516,No formal education,Farmer,Sub-urban,High,Hearing impairment,20085,Weekly
+28,Indore,Male,1139485,No formal education,Artist,Sub-urban,Low,Mobility impairment,25254,Weekly
+64,Bengaluru,Non-binary,1570965,No formal education,Artist,Urban,Low,Visual impairment (Blind),60691,Weekly
+35,Visakhapatnam,Male,1023345,No formal education,Student,Urban,Medium,Visual impairment (Blind),70480,Monthly
+18,Kolkata,Female,296858,Primary education,Student,Urban,Low,Cognitive impairment,95546,Monthly
+52,Surat,Non-binary,321135,Undergraduate degree,Engineer,Sub-urban,Medium,Mobility impairment,87558,Weekly
+79,Pimpri-Chinchwad,Female,648033,Primary education,Doctor,Urban,Medium,Speech impairment,79423,Daily
+19,Delhi,Female,703962,Secondary education,Doctor,Urban,High,Speech impairment,82213,Daily
+24,Chennai,Female,1559577,No formal education,Farmer,Rural,High,Speech impairment,55662,Weekly
+40,Indore,Female,488444,Primary education,Farmer,Sub-urban,High,Speech impairment,16380,Monthly
+43,Pimpri-Chinchwad,Male,1319305,Postgraduate degree,Student,Sub-urban,Medium,Speech impairment,84587,Weekly
+46,Bengaluru,Male,790303,Secondary education,Unemployed,Urban,High,Speech impairment,82611,Monthly
+39,Hyderabad,Non-binary,1649969,No formal education,Engineer,Urban,Medium,Cognitive impairment,48738,Monthly
+80,Vadodara,Male,1565106,Secondary education,Teacher,Urban,High,Hearing impairment,56018,Daily
+65,Thane,Female,526025,Secondary education,Artist,Sub-urban,Low,Hearing impairment,11377,Daily
+35,Visakhapatnam,Female,1931816,Secondary education,Engineer,Urban,Low,Hearing impairment,82922,Monthly
+44,Lucknow,Non-binary,1941467,Primary education,Technician,Rural,Medium,Mobility impairment,16178,Monthly
+77,Surat,Male,586138,Undergraduate degree,Farmer,Rural,Medium,Mobility impairment,42866,Monthly
+19,Nagpur,Male,1218117,Secondary education,Artist,Sub-urban,High,Visual impairment (Blind),62926,Weekly
+26,Lucknow,Male,1469202,Undergraduate degree,Teacher,Rural,Low,Cognitive impairment,30191,Daily
+63,Jaipur,Female,350151,Primary education,Unemployed,Rural,High,Cognitive impairment,53281,Monthly
+19,Chennai,Male,1731199,Primary education,Engineer,Rural,Low,Hearing impairment,90118,Weekly
+61,Bengaluru,Female,1267140,No formal education,Engineer,Rural,High,Hearing impairment,18056,Daily
+36,Surat,Female,684195,Undergraduate degree,Artist,Rural,Low,Cognitive impairment,91212,Monthly
+25,Ahmedabad,Non-binary,226785,Postgraduate degree,Engineer,Rural,High,Cognitive impairment,45974,Weekly
+44,Visakhapatnam,Non-binary,524688,Undergraduate degree,Artist,Urban,Low,Visual impairment (Blind),41163,Daily
+77,Visakhapatnam,Male,1677931,No formal education,Businessperson,Rural,High,Cognitive impairment,59603,Monthly
+76,Nagpur,Male,1174294,Secondary education,Engineer,Urban,Medium,Visual impairment (Blind),30692,Daily
+27,Bhopal,Male,1388457,Undergraduate degree,Student,Rural,Low,Speech impairment,12871,Monthly
+28,Lucknow,Female,407988,Postgraduate degree,Unemployed,Urban,High,Speech impairment,50055,Weekly
+23,Hyderabad,Female,295158,Secondary education,Student,Rural,Medium,Speech impairment,75387,Daily
+34,Indore,Male,1198037,No formal education,Artist,Sub-urban,Medium,Visual impairment (Blind),37798,Daily
+47,Hyderabad,Non-binary,1753629,Primary education,Student,Urban,High,Cognitive impairment,34770,Weekly
+24,Chennai,Female,1771531,Undergraduate degree,Teacher,Sub-urban,Low,Mobility impairment,73262,Weekly
+28,Mumbai,Female,1055658,Primary education,Student,Sub-urban,Low,Mobility impairment,49385,Monthly
+28,Vadodara,Male,1817083,Postgraduate degree,Teacher,Rural,Low,Mobility impairment,6390,Monthly
+62,Nagpur,Female,1680282,Undergraduate degree,Student,Sub-urban,Low,Hearing impairment,42715,Weekly
+38,Patna,Male,336641,No formal education,Businessperson,Urban,Medium,Visual impairment (Blind),11414,Daily
+23,Kolkata,Male,724242,Primary education,Doctor,Urban,Low,Speech impairment,35462,Weekly
+41,Thane,Female,1296325,Postgraduate degree,Teacher,Rural,Medium,Mobility impairment,72812,Monthly
+20,Hyderabad,Male,1541144,Secondary education,Artist,Sub-urban,Medium,Speech impairment,85979,Daily
+19,Jaipur,Non-binary,557219,Secondary education,Farmer,Sub-urban,Low,Speech impairment,10549,Weekly
+39,Bhopal,Female,242268,Secondary education,Businessperson,Urban,High,Hearing impairment,99433,Weekly
+56,Hyderabad,Female,664750,Secondary education,Teacher,Urban,High,Cognitive impairment,47671,Daily
+73,Thane,Female,201923,Undergraduate degree,Unemployed,Urban,High,Cognitive impairment,73951,Weekly
+21,Pune,Female,1976889,Postgraduate degree,Student,Urban,High,Cognitive impairment,12368,Daily
+55,Surat,Male,503979,Secondary education,Businessperson,Urban,Medium,Hearing impairment,66171,Monthly
+74,Patna,Non-binary,1144518,Secondary education,Teacher,Sub-urban,High,Hearing impairment,84379,Daily
+66,Nagpur,Female,510880,Secondary education,Artist,Urban,Low,Hearing impairment,5281,Weekly
+54,Mumbai,Male,320459,Undergraduate degree,Teacher,Urban,High,Cognitive impairment,27771,Monthly
+43,Surat,Non-binary,1063851,Undergraduate degree,Technician,Urban,Low,Hearing impairment,79981,Daily
+77,Indore,Non-binary,1969609,Primary education,Doctor,Urban,High,Visual impairment (Blind),58935,Monthly
+45,Ahmedabad,Female,1894975,No formal education,Student,Rural,High,Hearing impairment,81920,Daily
+57,Surat,Non-binary,1748762,Secondary education,Engineer,Sub-urban,High,Speech impairment,77871,Weekly
+61,Thane,Non-binary,1488356,Primary education,Businessperson,Urban,Medium,Speech impairment,77344,Weekly
+19,Pimpri-Chinchwad,Female,300268,Undergraduate degree,Technician,Urban,Medium,Hearing impairment,93263,Monthly
+20,Patna,Female,1276669,No formal education,Engineer,Sub-urban,Medium,Speech impairment,93132,Weekly
+46,Patna,Non-binary,1214421,No formal education,Artist,Urban,Medium,Hearing impairment,98905,Monthly
+23,Nagpur,Non-binary,751620,No formal education,Engineer,Rural,Medium,Speech impairment,13544,Daily
+67,Pimpri-Chinchwad,Female,920293,No formal education,Student,Sub-urban,Low,Mobility impairment,76157,Daily
+50,Bengaluru,Female,1376163,Primary education,Doctor,Rural,High,Mobility impairment,49967,Monthly
+75,Kanpur,Non-binary,1222744,Undergraduate degree,Farmer,Sub-urban,High,Visual impairment (Blind),10165,Monthly
+20,Visakhapatnam,Female,280867,Secondary education,Engineer,Urban,Medium,Mobility impairment,69073,Weekly
+47,Mumbai,Female,265826,No formal education,Technician,Urban,Medium,Mobility impairment,52647,Daily
+22,Pimpri-Chinchwad,Non-binary,385653,No formal education,Businessperson,Urban,Medium,Speech impairment,63708,Weekly
+54,Chennai,Non-binary,1670707,Primary education,Technician,Rural,Low,Visual impairment (Blind),54671,Monthly
+24,Bhopal,Female,1682305,Secondary education,Businessperson,Urban,Low,Speech impairment,26969,Daily
+58,Indore,Female,659101,No formal education,Doctor,Rural,Medium,Visual impairment (Blind),76790,Weekly
+40,Mumbai,Female,1578085,Secondary education,Doctor,Sub-urban,High,Cognitive impairment,26059,Weekly
+26,Kanpur,Non-binary,1687772,No formal education,Unemployed,Rural,Medium,Cognitive impairment,73350,Daily
+23,Pune,Female,744615,Primary education,Student,Urban,Low,Cognitive impairment,98791,Monthly
+44,Nagpur,Male,1479638,Postgraduate degree,Unemployed,Urban,Medium,Mobility impairment,85828,Monthly
+31,Pune,Male,1381046,Undergraduate degree,Farmer,Urban,Medium,Mobility impairment,58277,Weekly
+57,Bengaluru,Male,801689,Undergraduate degree,Farmer,Sub-urban,Medium,Visual impairment (Blind),10573,Daily
+23,Bengaluru,Non-binary,929505,Undergraduate degree,Businessperson,Rural,Low,Speech impairment,6824,Monthly
+36,Ahmedabad,Female,1912769,Postgraduate degree,Businessperson,Rural,Medium,Visual impairment (Blind),60741,Monthly
+64,Thane,Non-binary,1216602,No formal education,Businessperson,Rural,Medium,Speech impairment,28417,Monthly
+59,Indore,Male,181493,Primary education,Artist,Sub-urban,Medium,Speech impairment,58758,Daily
+38,Kanpur,Male,332938,No formal education,Engineer,Sub-urban,Medium,Cognitive impairment,44370,Weekly
+80,Ahmedabad,Male,671814,Primary education,Technician,Urban,Medium,Visual impairment (Blind),5606,Monthly
+60,Indore,Male,769826,Primary education,Artist,Sub-urban,Low,Mobility impairment,84807,Weekly
+73,Indore,Non-binary,360962,Postgraduate degree,Artist,Urban,Medium,Speech impairment,43952,Monthly
+36,Hyderabad,Female,1314262,Undergraduate degree,Businessperson,Rural,Low,Hearing impairment,88466,Daily
+32,Jaipur,Non-binary,650271,Undergraduate degree,Doctor,Rural,Medium,Hearing impairment,7955,Monthly
+80,Hyderabad,Female,759523,Undergraduate degree,Student,Rural,High,Mobility impairment,24713,Monthly
+62,Thane,Male,1046935,Secondary education,Businessperson,Rural,Low,Visual impairment (Blind),96938,Weekly
+39,Thane,Male,1886632,Postgraduate degree,Farmer,Sub-urban,Low,Cognitive impairment,12451,Daily
+58,Jaipur,Female,1796998,No formal education,Unemployed,Urban,Medium,Cognitive impairment,33573,Daily
+25,Patna,Female,1957836,No formal education,Unemployed,Sub-urban,High,Visual impairment (Blind),14388,Monthly
+64,Indore,Male,1699671,No formal education,Technician,Rural,Low,Mobility impairment,16154,Daily
+79,Hyderabad,Female,1739855,Secondary education,Businessperson,Sub-urban,High,Hearing impairment,77766,Weekly
+18,Hyderabad,Male,693884,Primary education,Teacher,Urban,Low,Speech impairment,53715,Daily
+43,Visakhapatnam,Male,944108,Undergraduate degree,Engineer,Sub-urban,Medium,Speech impairment,31552,Daily
+72,Bengaluru,Non-binary,1553161,Postgraduate degree,Technician,Urban,Medium,Cognitive impairment,29936,Daily
+19,Pune,Male,934589,Undergraduate degree,Teacher,Urban,Medium,Mobility impairment,16348,Daily
+19,Surat,Non-binary,297806,Postgraduate degree,Businessperson,Sub-urban,Medium,Speech impairment,90343,Weekly
+70,Vadodara,Female,758362,Postgraduate degree,Doctor,Sub-urban,Low,Cognitive impairment,35488,Weekly
+80,Ahmedabad,Non-binary,483739,Postgraduate degree,Farmer,Rural,High,Visual impairment (Blind),20199,Daily
+24,Chennai,Non-binary,899519,Postgraduate degree,Engineer,Urban,High,Hearing impairment,42282,Monthly
+27,Indore,Non-binary,297943,Primary education,Unemployed,Rural,Low,Visual impairment (Blind),79828,Weekly
+79,Hyderabad,Non-binary,191855,Primary education,Unemployed,Rural,High,Mobility impairment,50383,Monthly
+59,Chennai,Non-binary,1239198,Postgraduate degree,Artist,Rural,High,Visual impairment (Blind),70445,Weekly
+79,Mumbai,Male,874462,No formal education,Student,Sub-urban,Low,Speech impairment,7362,Weekly
+47,Lucknow,Female,1859376,No formal education,Engineer,Rural,High,Visual impairment (Blind),60950,Monthly
+73,Vadodara,Male,1921983,Primary education,Businessperson,Rural,Medium,Mobility impairment,85836,Weekly
+40,Ahmedabad,Female,480795,Postgraduate degree,Farmer,Urban,Low,Mobility impairment,7501,Monthly
+47,Visakhapatnam,Non-binary,827022,Secondary education,Engineer,Sub-urban,Low,Hearing impairment,24104,Weekly
+40,Jaipur,Male,1320259,No formal education,Farmer,Urban,Medium,Mobility impairment,40233,Daily
+74,Pune,Female,562592,Primary education,Student,Sub-urban,Low,Cognitive impairment,41527,Monthly
+22,Thane,Non-binary,1685075,Undergraduate degree,Engineer,Sub-urban,Medium,Hearing impairment,46354,Weekly
+56,Surat,Female,1274090,Secondary education,Farmer,Urban,Medium,Hearing impairment,31886,Weekly
+78,Surat,Male,352041,Undergraduate degree,Teacher,Sub-urban,Medium,Visual impairment (Blind),71695,Daily
+80,Pimpri-Chinchwad,Male,436451,Secondary education,Student,Rural,Medium,Cognitive impairment,69373,Monthly
+43,Nagpur,Non-binary,1989442,Postgraduate degree,Technician,Sub-urban,High,Visual impairment (Blind),98469,Weekly
+22,Pune,Male,1281864,Undergraduate degree,Technician,Urban,High,Mobility impairment,37877,Daily
+65,Thane,Non-binary,1428099,Undergraduate degree,Unemployed,Sub-urban,Medium,Hearing impairment,96353,Weekly
+75,Pimpri-Chinchwad,Male,927115,Postgraduate degree,Unemployed,Rural,Medium,Mobility impairment,43138,Weekly
+71,Bhopal,Female,545307,Postgraduate degree,Technician,Rural,Low,Cognitive impairment,38671,Monthly
+64,Thane,Non-binary,1873385,Primary education,Student,Sub-urban,Medium,Mobility impairment,90695,Daily
+56,Jaipur,Non-binary,1794853,Secondary education,Businessperson,Sub-urban,High,Hearing impairment,53895,Monthly
+31,Bengaluru,Male,817524,Undergraduate degree,Technician,Rural,High,Hearing impairment,72002,Weekly
+69,Kolkata,Male,647150,Undergraduate degree,Student,Rural,High,Cognitive impairment,84238,Weekly
